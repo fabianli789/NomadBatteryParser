@@ -1,0 +1,24 @@
+T: 300
+xdim: 50
+ydim: 50
+save_step: 2000
+barriers:
+- Electrode (surf)           --> C2H4OCO2Li   : 0.50010702
+- Li2CO3 (surf)              --> C2H4OCO2Li   : 0.27652058
+- Electrode + C2H4OCO2Li     --> Li2CO3       : 0.32758333
+- C2H4OCO2Li + C2H4OCO2Li    --> Li2EDC       : 0.41594384
+- Li2EDC + Li2EDC            --> (LiEDC)2     : 0.63267275
+- Li2EDC + (LiEDC)2          --> SEI cluster  : 0.76431548
+- Li2CO3 (surf) + C2H4OCO2Li -->  Li2CO3      : 0.53363737
+- Li2EDC + SEI cluster       --> SEI cluster  : 0.47063501
+- (LiEDC)2  +  SEI cluster   --> SEI cluster  : 0.45741817
+- (LiEDC)2  + (LiEDC)2       --> SEI cluster  : 0.51573148
+- SEI cluster +  SEI cluster --> SEI cluster  : 0.48634289
+- (LiEDC)2                        diffusion   : 0.41193067
+- LiEDC                           diffusion   : 0.36216547
+- C2H4OCO2Li                      diffusion   : 0.35207961
+- SEI cluster                     diffusion   : 0.38254061
+- C2H4OCO2Li                      escape      : 0.01 
+- (LiEDC)2                        escape      : 0.01 
+- SEI cluster                     escape      : 0.01 
+- LiEDC                           escape      : 0.01  

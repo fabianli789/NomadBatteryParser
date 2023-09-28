@@ -1,0 +1,2501 @@
+,"[x,y]",species
+0,"[1, 1]",Electrode
+1,"[1, 2]",LiCO3
+2,"[1, 3]",Li2EDC
+3,"[1, 4]",Li2EDC
+4,"[1, 5]",Li2EDC
+5,"[1, 6]",empty
+6,"[1, 7]",empty
+7,"[1, 8]",empty
+8,"[1, 9]",empty
+9,"[1, 10]",empty
+10,"[1, 11]",SEI cluster
+11,"[1, 12]",empty
+12,"[1, 13]",empty
+13,"[1, 14]",empty
+14,"[1, 15]",empty
+15,"[1, 16]",empty
+16,"[1, 17]",empty
+17,"[1, 18]",empty
+18,"[1, 19]",empty
+19,"[1, 20]",empty
+20,"[1, 21]",empty
+21,"[1, 22]",empty
+22,"[1, 23]",empty
+23,"[1, 24]",empty
+24,"[1, 25]",empty
+25,"[1, 26]",empty
+26,"[1, 27]",empty
+27,"[1, 28]",empty
+28,"[1, 29]",empty
+29,"[1, 30]",empty
+30,"[1, 31]",empty
+31,"[1, 32]",empty
+32,"[1, 33]",empty
+33,"[1, 34]",empty
+34,"[1, 35]",empty
+35,"[1, 36]",empty
+36,"[1, 37]",empty
+37,"[1, 38]",empty
+38,"[1, 39]",empty
+39,"[1, 40]",empty
+40,"[1, 41]",empty
+41,"[1, 42]",empty
+42,"[1, 43]",empty
+43,"[1, 44]",empty
+44,"[1, 45]",empty
+45,"[1, 46]",empty
+46,"[1, 47]",empty
+47,"[1, 48]",empty
+48,"[1, 49]",empty
+49,"[1, 50]",Adsorbent
+50,"[2, 1]",Electrode
+51,"[2, 2]",LiCO3
+52,"[2, 3]",LiCO3
+53,"[2, 4]",Li2EDC
+54,"[2, 5]",P
+55,"[2, 6]",empty
+56,"[2, 7]",SEI cluster
+57,"[2, 8]",SEI cluster
+58,"[2, 9]",SEI cluster
+59,"[2, 10]",empty
+60,"[2, 11]",SEI cluster
+61,"[2, 12]",empty
+62,"[2, 13]",empty
+63,"[2, 14]",empty
+64,"[2, 15]",empty
+65,"[2, 16]",empty
+66,"[2, 17]",empty
+67,"[2, 18]",empty
+68,"[2, 19]",empty
+69,"[2, 20]",empty
+70,"[2, 21]",empty
+71,"[2, 22]",empty
+72,"[2, 23]",empty
+73,"[2, 24]",empty
+74,"[2, 25]",empty
+75,"[2, 26]",empty
+76,"[2, 27]",empty
+77,"[2, 28]",empty
+78,"[2, 29]",empty
+79,"[2, 30]",empty
+80,"[2, 31]",empty
+81,"[2, 32]",empty
+82,"[2, 33]",empty
+83,"[2, 34]",empty
+84,"[2, 35]",empty
+85,"[2, 36]",empty
+86,"[2, 37]",empty
+87,"[2, 38]",empty
+88,"[2, 39]",empty
+89,"[2, 40]",empty
+90,"[2, 41]",empty
+91,"[2, 42]",empty
+92,"[2, 43]",empty
+93,"[2, 44]",empty
+94,"[2, 45]",empty
+95,"[2, 46]",empty
+96,"[2, 47]",empty
+97,"[2, 48]",empty
+98,"[2, 49]",empty
+99,"[2, 50]",Adsorbent
+100,"[3, 1]",Electrode
+101,"[3, 2]",LiCO3
+102,"[3, 3]",LiCO3
+103,"[3, 4]",Li2EDC
+104,"[3, 5]",Li2EDC
+105,"[3, 6]",empty
+106,"[3, 7]",SEI cluster
+107,"[3, 8]",SEI cluster
+108,"[3, 9]",SEI cluster
+109,"[3, 10]",SEI cluster
+110,"[3, 11]",SEI cluster
+111,"[3, 12]",empty
+112,"[3, 13]",empty
+113,"[3, 14]",empty
+114,"[3, 15]",empty
+115,"[3, 16]",empty
+116,"[3, 17]",empty
+117,"[3, 18]",empty
+118,"[3, 19]",empty
+119,"[3, 20]",empty
+120,"[3, 21]",empty
+121,"[3, 22]",empty
+122,"[3, 23]",empty
+123,"[3, 24]",empty
+124,"[3, 25]",empty
+125,"[3, 26]",empty
+126,"[3, 27]",empty
+127,"[3, 28]",empty
+128,"[3, 29]",empty
+129,"[3, 30]",empty
+130,"[3, 31]",empty
+131,"[3, 32]",empty
+132,"[3, 33]",empty
+133,"[3, 34]",empty
+134,"[3, 35]",empty
+135,"[3, 36]",empty
+136,"[3, 37]",empty
+137,"[3, 38]",empty
+138,"[3, 39]",empty
+139,"[3, 40]",empty
+140,"[3, 41]",empty
+141,"[3, 42]",empty
+142,"[3, 43]",empty
+143,"[3, 44]",empty
+144,"[3, 45]",empty
+145,"[3, 46]",empty
+146,"[3, 47]",empty
+147,"[3, 48]",empty
+148,"[3, 49]",empty
+149,"[3, 50]",Adsorbent
+150,"[4, 1]",Electrode
+151,"[4, 2]",LiCO3
+152,"[4, 3]",LiCO3
+153,"[4, 4]",Li2EDC
+154,"[4, 5]",empty
+155,"[4, 6]",empty
+156,"[4, 7]",SEI cluster
+157,"[4, 8]",SEI cluster
+158,"[4, 9]",SEI cluster
+159,"[4, 10]",SEI cluster
+160,"[4, 11]",SEI cluster
+161,"[4, 12]",empty
+162,"[4, 13]",empty
+163,"[4, 14]",empty
+164,"[4, 15]",empty
+165,"[4, 16]",empty
+166,"[4, 17]",empty
+167,"[4, 18]",empty
+168,"[4, 19]",empty
+169,"[4, 20]",empty
+170,"[4, 21]",empty
+171,"[4, 22]",empty
+172,"[4, 23]",empty
+173,"[4, 24]",empty
+174,"[4, 25]",empty
+175,"[4, 26]",empty
+176,"[4, 27]",empty
+177,"[4, 28]",empty
+178,"[4, 29]",empty
+179,"[4, 30]",empty
+180,"[4, 31]",empty
+181,"[4, 32]",empty
+182,"[4, 33]",empty
+183,"[4, 34]",empty
+184,"[4, 35]",empty
+185,"[4, 36]",empty
+186,"[4, 37]",empty
+187,"[4, 38]",empty
+188,"[4, 39]",empty
+189,"[4, 40]",empty
+190,"[4, 41]",empty
+191,"[4, 42]",empty
+192,"[4, 43]",empty
+193,"[4, 44]",empty
+194,"[4, 45]",empty
+195,"[4, 46]",empty
+196,"[4, 47]",empty
+197,"[4, 48]",empty
+198,"[4, 49]",empty
+199,"[4, 50]",Adsorbent
+200,"[5, 1]",Electrode
+201,"[5, 2]",LiCO3
+202,"[5, 3]",Li2EDC
+203,"[5, 4]",P
+204,"[5, 5]",SEI cluster
+205,"[5, 6]",SEI cluster
+206,"[5, 7]",SEI cluster
+207,"[5, 8]",SEI cluster
+208,"[5, 9]",SEI cluster
+209,"[5, 10]",SEI cluster
+210,"[5, 11]",empty
+211,"[5, 12]",empty
+212,"[5, 13]",SEI cluster
+213,"[5, 14]",SEI cluster
+214,"[5, 15]",SEI cluster
+215,"[5, 16]",empty
+216,"[5, 17]",empty
+217,"[5, 18]",empty
+218,"[5, 19]",empty
+219,"[5, 20]",empty
+220,"[5, 21]",empty
+221,"[5, 22]",empty
+222,"[5, 23]",empty
+223,"[5, 24]",empty
+224,"[5, 25]",empty
+225,"[5, 26]",empty
+226,"[5, 27]",empty
+227,"[5, 28]",empty
+228,"[5, 29]",empty
+229,"[5, 30]",empty
+230,"[5, 31]",empty
+231,"[5, 32]",empty
+232,"[5, 33]",empty
+233,"[5, 34]",empty
+234,"[5, 35]",empty
+235,"[5, 36]",empty
+236,"[5, 37]",empty
+237,"[5, 38]",empty
+238,"[5, 39]",empty
+239,"[5, 40]",empty
+240,"[5, 41]",empty
+241,"[5, 42]",empty
+242,"[5, 43]",empty
+243,"[5, 44]",empty
+244,"[5, 45]",empty
+245,"[5, 46]",empty
+246,"[5, 47]",empty
+247,"[5, 48]",empty
+248,"[5, 49]",empty
+249,"[5, 50]",Adsorbent
+250,"[6, 1]",Electrode
+251,"[6, 2]",LiCO3
+252,"[6, 3]",LiCO3
+253,"[6, 4]",LiCO3
+254,"[6, 5]",P
+255,"[6, 6]",SEI cluster
+256,"[6, 7]",SEI cluster
+257,"[6, 8]",SEI cluster
+258,"[6, 9]",SEI cluster
+259,"[6, 10]",SEI cluster
+260,"[6, 11]",empty
+261,"[6, 12]",empty
+262,"[6, 13]",SEI cluster
+263,"[6, 14]",SEI cluster
+264,"[6, 15]",SEI cluster
+265,"[6, 16]",SEI cluster
+266,"[6, 17]",empty
+267,"[6, 18]",empty
+268,"[6, 19]",empty
+269,"[6, 20]",empty
+270,"[6, 21]",empty
+271,"[6, 22]",SEI cluster
+272,"[6, 23]",empty
+273,"[6, 24]",empty
+274,"[6, 25]",empty
+275,"[6, 26]",empty
+276,"[6, 27]",empty
+277,"[6, 28]",empty
+278,"[6, 29]",empty
+279,"[6, 30]",empty
+280,"[6, 31]",empty
+281,"[6, 32]",empty
+282,"[6, 33]",empty
+283,"[6, 34]",empty
+284,"[6, 35]",empty
+285,"[6, 36]",empty
+286,"[6, 37]",empty
+287,"[6, 38]",empty
+288,"[6, 39]",empty
+289,"[6, 40]",empty
+290,"[6, 41]",empty
+291,"[6, 42]",empty
+292,"[6, 43]",empty
+293,"[6, 44]",empty
+294,"[6, 45]",empty
+295,"[6, 46]",empty
+296,"[6, 47]",empty
+297,"[6, 48]",empty
+298,"[6, 49]",empty
+299,"[6, 50]",Adsorbent
+300,"[7, 1]",Electrode
+301,"[7, 2]",LiCO3
+302,"[7, 3]",SEI cluster
+303,"[7, 4]",P
+304,"[7, 5]",SEI cluster
+305,"[7, 6]",SEI cluster
+306,"[7, 7]",SEI cluster
+307,"[7, 8]",SEI cluster
+308,"[7, 9]",SEI cluster
+309,"[7, 10]",SEI cluster
+310,"[7, 11]",SEI cluster
+311,"[7, 12]",SEI cluster
+312,"[7, 13]",empty
+313,"[7, 14]",SEI cluster
+314,"[7, 15]",SEI cluster
+315,"[7, 16]",SEI cluster
+316,"[7, 17]",SEI cluster
+317,"[7, 18]",empty
+318,"[7, 19]",empty
+319,"[7, 20]",SEI cluster
+320,"[7, 21]",SEI cluster
+321,"[7, 22]",SEI cluster
+322,"[7, 23]",SEI cluster
+323,"[7, 24]",empty
+324,"[7, 25]",empty
+325,"[7, 26]",empty
+326,"[7, 27]",empty
+327,"[7, 28]",empty
+328,"[7, 29]",empty
+329,"[7, 30]",empty
+330,"[7, 31]",empty
+331,"[7, 32]",empty
+332,"[7, 33]",empty
+333,"[7, 34]",empty
+334,"[7, 35]",empty
+335,"[7, 36]",empty
+336,"[7, 37]",empty
+337,"[7, 38]",empty
+338,"[7, 39]",empty
+339,"[7, 40]",empty
+340,"[7, 41]",empty
+341,"[7, 42]",empty
+342,"[7, 43]",empty
+343,"[7, 44]",empty
+344,"[7, 45]",empty
+345,"[7, 46]",empty
+346,"[7, 47]",empty
+347,"[7, 48]",empty
+348,"[7, 49]",empty
+349,"[7, 50]",Adsorbent
+350,"[8, 1]",Electrode
+351,"[8, 2]",LiCO3
+352,"[8, 3]",SEI cluster
+353,"[8, 4]",SEI cluster
+354,"[8, 5]",SEI cluster
+355,"[8, 6]",SEI cluster
+356,"[8, 7]",SEI cluster
+357,"[8, 8]",SEI cluster
+358,"[8, 9]",SEI cluster
+359,"[8, 10]",SEI cluster
+360,"[8, 11]",SEI cluster
+361,"[8, 12]",empty
+362,"[8, 13]",SEI cluster
+363,"[8, 14]",SEI cluster
+364,"[8, 15]",SEI cluster
+365,"[8, 16]",SEI cluster
+366,"[8, 17]",SEI cluster
+367,"[8, 18]",SEI cluster
+368,"[8, 19]",SEI cluster
+369,"[8, 20]",SEI cluster
+370,"[8, 21]",empty
+371,"[8, 22]",empty
+372,"[8, 23]",SEI cluster
+373,"[8, 24]",empty
+374,"[8, 25]",empty
+375,"[8, 26]",empty
+376,"[8, 27]",empty
+377,"[8, 28]",empty
+378,"[8, 29]",empty
+379,"[8, 30]",empty
+380,"[8, 31]",empty
+381,"[8, 32]",empty
+382,"[8, 33]",empty
+383,"[8, 34]",empty
+384,"[8, 35]",empty
+385,"[8, 36]",empty
+386,"[8, 37]",empty
+387,"[8, 38]",empty
+388,"[8, 39]",empty
+389,"[8, 40]",empty
+390,"[8, 41]",empty
+391,"[8, 42]",empty
+392,"[8, 43]",empty
+393,"[8, 44]",empty
+394,"[8, 45]",empty
+395,"[8, 46]",empty
+396,"[8, 47]",empty
+397,"[8, 48]",empty
+398,"[8, 49]",empty
+399,"[8, 50]",Adsorbent
+400,"[9, 1]",Electrode
+401,"[9, 2]",LiCO3
+402,"[9, 3]",LiCO3
+403,"[9, 4]",LiCO3
+404,"[9, 5]",SEI cluster
+405,"[9, 6]",SEI cluster
+406,"[9, 7]",SEI cluster
+407,"[9, 8]",SEI cluster
+408,"[9, 9]",SEI cluster
+409,"[9, 10]",SEI cluster
+410,"[9, 11]",SEI cluster
+411,"[9, 12]",SEI cluster
+412,"[9, 13]",SEI cluster
+413,"[9, 14]",SEI cluster
+414,"[9, 15]",empty
+415,"[9, 16]",empty
+416,"[9, 17]",empty
+417,"[9, 18]",SEI cluster
+418,"[9, 19]",SEI cluster
+419,"[9, 20]",SEI cluster
+420,"[9, 21]",empty
+421,"[9, 22]",empty
+422,"[9, 23]",empty
+423,"[9, 24]",empty
+424,"[9, 25]",empty
+425,"[9, 26]",empty
+426,"[9, 27]",empty
+427,"[9, 28]",empty
+428,"[9, 29]",empty
+429,"[9, 30]",empty
+430,"[9, 31]",empty
+431,"[9, 32]",empty
+432,"[9, 33]",empty
+433,"[9, 34]",empty
+434,"[9, 35]",empty
+435,"[9, 36]",empty
+436,"[9, 37]",empty
+437,"[9, 38]",empty
+438,"[9, 39]",empty
+439,"[9, 40]",empty
+440,"[9, 41]",empty
+441,"[9, 42]",empty
+442,"[9, 43]",empty
+443,"[9, 44]",empty
+444,"[9, 45]",empty
+445,"[9, 46]",empty
+446,"[9, 47]",empty
+447,"[9, 48]",empty
+448,"[9, 49]",empty
+449,"[9, 50]",Adsorbent
+450,"[10, 1]",Electrode
+451,"[10, 2]",LiCO3
+452,"[10, 3]",SEI cluster
+453,"[10, 4]",SEI cluster
+454,"[10, 5]",SEI cluster
+455,"[10, 6]",SEI cluster
+456,"[10, 7]",SEI cluster
+457,"[10, 8]",SEI cluster
+458,"[10, 9]",SEI cluster
+459,"[10, 10]",SEI cluster
+460,"[10, 11]",empty
+461,"[10, 12]",empty
+462,"[10, 13]",SEI cluster
+463,"[10, 14]",SEI cluster
+464,"[10, 15]",SEI cluster
+465,"[10, 16]",empty
+466,"[10, 17]",empty
+467,"[10, 18]",SEI cluster
+468,"[10, 19]",empty
+469,"[10, 20]",SEI cluster
+470,"[10, 21]",SEI cluster
+471,"[10, 22]",SEI cluster
+472,"[10, 23]",empty
+473,"[10, 24]",empty
+474,"[10, 25]",empty
+475,"[10, 26]",empty
+476,"[10, 27]",empty
+477,"[10, 28]",empty
+478,"[10, 29]",empty
+479,"[10, 30]",empty
+480,"[10, 31]",empty
+481,"[10, 32]",empty
+482,"[10, 33]",empty
+483,"[10, 34]",empty
+484,"[10, 35]",empty
+485,"[10, 36]",empty
+486,"[10, 37]",empty
+487,"[10, 38]",empty
+488,"[10, 39]",empty
+489,"[10, 40]",empty
+490,"[10, 41]",empty
+491,"[10, 42]",empty
+492,"[10, 43]",empty
+493,"[10, 44]",empty
+494,"[10, 45]",empty
+495,"[10, 46]",empty
+496,"[10, 47]",empty
+497,"[10, 48]",empty
+498,"[10, 49]",empty
+499,"[10, 50]",Adsorbent
+500,"[11, 1]",Electrode
+501,"[11, 2]",LiCO3
+502,"[11, 3]",SEI cluster
+503,"[11, 4]",SEI cluster
+504,"[11, 5]",SEI cluster
+505,"[11, 6]",SEI cluster
+506,"[11, 7]",SEI cluster
+507,"[11, 8]",SEI cluster
+508,"[11, 9]",SEI cluster
+509,"[11, 10]",SEI cluster
+510,"[11, 11]",SEI cluster
+511,"[11, 12]",empty
+512,"[11, 13]",SEI cluster
+513,"[11, 14]",SEI cluster
+514,"[11, 15]",SEI cluster
+515,"[11, 16]",SEI cluster
+516,"[11, 17]",SEI cluster
+517,"[11, 18]",SEI cluster
+518,"[11, 19]",SEI cluster
+519,"[11, 20]",SEI cluster
+520,"[11, 21]",SEI cluster
+521,"[11, 22]",empty
+522,"[11, 23]",empty
+523,"[11, 24]",empty
+524,"[11, 25]",empty
+525,"[11, 26]",empty
+526,"[11, 27]",empty
+527,"[11, 28]",empty
+528,"[11, 29]",empty
+529,"[11, 30]",empty
+530,"[11, 31]",empty
+531,"[11, 32]",empty
+532,"[11, 33]",empty
+533,"[11, 34]",empty
+534,"[11, 35]",empty
+535,"[11, 36]",empty
+536,"[11, 37]",empty
+537,"[11, 38]",empty
+538,"[11, 39]",empty
+539,"[11, 40]",empty
+540,"[11, 41]",empty
+541,"[11, 42]",empty
+542,"[11, 43]",empty
+543,"[11, 44]",empty
+544,"[11, 45]",empty
+545,"[11, 46]",empty
+546,"[11, 47]",empty
+547,"[11, 48]",empty
+548,"[11, 49]",empty
+549,"[11, 50]",Adsorbent
+550,"[12, 1]",Electrode
+551,"[12, 2]",LiCO3
+552,"[12, 3]",SEI cluster
+553,"[12, 4]",SEI cluster
+554,"[12, 5]",SEI cluster
+555,"[12, 6]",SEI cluster
+556,"[12, 7]",SEI cluster
+557,"[12, 8]",SEI cluster
+558,"[12, 9]",SEI cluster
+559,"[12, 10]",SEI cluster
+560,"[12, 11]",SEI cluster
+561,"[12, 12]",SEI cluster
+562,"[12, 13]",SEI cluster
+563,"[12, 14]",SEI cluster
+564,"[12, 15]",SEI cluster
+565,"[12, 16]",SEI cluster
+566,"[12, 17]",SEI cluster
+567,"[12, 18]",SEI cluster
+568,"[12, 19]",empty
+569,"[12, 20]",SEI cluster
+570,"[12, 21]",empty
+571,"[12, 22]",empty
+572,"[12, 23]",empty
+573,"[12, 24]",empty
+574,"[12, 25]",empty
+575,"[12, 26]",empty
+576,"[12, 27]",empty
+577,"[12, 28]",empty
+578,"[12, 29]",empty
+579,"[12, 30]",empty
+580,"[12, 31]",empty
+581,"[12, 32]",empty
+582,"[12, 33]",empty
+583,"[12, 34]",empty
+584,"[12, 35]",empty
+585,"[12, 36]",empty
+586,"[12, 37]",empty
+587,"[12, 38]",empty
+588,"[12, 39]",empty
+589,"[12, 40]",empty
+590,"[12, 41]",empty
+591,"[12, 42]",empty
+592,"[12, 43]",empty
+593,"[12, 44]",empty
+594,"[12, 45]",empty
+595,"[12, 46]",empty
+596,"[12, 47]",empty
+597,"[12, 48]",empty
+598,"[12, 49]",empty
+599,"[12, 50]",Adsorbent
+600,"[13, 1]",Electrode
+601,"[13, 2]",LiCO3
+602,"[13, 3]",SEI cluster
+603,"[13, 4]",SEI cluster
+604,"[13, 5]",SEI cluster
+605,"[13, 6]",SEI cluster
+606,"[13, 7]",SEI cluster
+607,"[13, 8]",SEI cluster
+608,"[13, 9]",SEI cluster
+609,"[13, 10]",empty
+610,"[13, 11]",SEI cluster
+611,"[13, 12]",SEI cluster
+612,"[13, 13]",SEI cluster
+613,"[13, 14]",SEI cluster
+614,"[13, 15]",SEI cluster
+615,"[13, 16]",SEI cluster
+616,"[13, 17]",SEI cluster
+617,"[13, 18]",SEI cluster
+618,"[13, 19]",SEI cluster
+619,"[13, 20]",empty
+620,"[13, 21]",empty
+621,"[13, 22]",empty
+622,"[13, 23]",empty
+623,"[13, 24]",empty
+624,"[13, 25]",empty
+625,"[13, 26]",empty
+626,"[13, 27]",empty
+627,"[13, 28]",empty
+628,"[13, 29]",empty
+629,"[13, 30]",empty
+630,"[13, 31]",empty
+631,"[13, 32]",empty
+632,"[13, 33]",empty
+633,"[13, 34]",empty
+634,"[13, 35]",empty
+635,"[13, 36]",empty
+636,"[13, 37]",empty
+637,"[13, 38]",empty
+638,"[13, 39]",empty
+639,"[13, 40]",empty
+640,"[13, 41]",empty
+641,"[13, 42]",empty
+642,"[13, 43]",empty
+643,"[13, 44]",empty
+644,"[13, 45]",empty
+645,"[13, 46]",empty
+646,"[13, 47]",empty
+647,"[13, 48]",empty
+648,"[13, 49]",empty
+649,"[13, 50]",Adsorbent
+650,"[14, 1]",Electrode
+651,"[14, 2]",LiCO3
+652,"[14, 3]",LiCO3
+653,"[14, 4]",SEI cluster
+654,"[14, 5]",SEI cluster
+655,"[14, 6]",SEI cluster
+656,"[14, 7]",SEI cluster
+657,"[14, 8]",SEI cluster
+658,"[14, 9]",SEI cluster
+659,"[14, 10]",SEI cluster
+660,"[14, 11]",SEI cluster
+661,"[14, 12]",SEI cluster
+662,"[14, 13]",empty
+663,"[14, 14]",SEI cluster
+664,"[14, 15]",SEI cluster
+665,"[14, 16]",SEI cluster
+666,"[14, 17]",SEI cluster
+667,"[14, 18]",SEI cluster
+668,"[14, 19]",empty
+669,"[14, 20]",empty
+670,"[14, 21]",empty
+671,"[14, 22]",empty
+672,"[14, 23]",empty
+673,"[14, 24]",empty
+674,"[14, 25]",empty
+675,"[14, 26]",empty
+676,"[14, 27]",empty
+677,"[14, 28]",empty
+678,"[14, 29]",empty
+679,"[14, 30]",empty
+680,"[14, 31]",empty
+681,"[14, 32]",empty
+682,"[14, 33]",empty
+683,"[14, 34]",empty
+684,"[14, 35]",empty
+685,"[14, 36]",empty
+686,"[14, 37]",empty
+687,"[14, 38]",empty
+688,"[14, 39]",empty
+689,"[14, 40]",empty
+690,"[14, 41]",empty
+691,"[14, 42]",empty
+692,"[14, 43]",empty
+693,"[14, 44]",empty
+694,"[14, 45]",empty
+695,"[14, 46]",empty
+696,"[14, 47]",empty
+697,"[14, 48]",empty
+698,"[14, 49]",empty
+699,"[14, 50]",Adsorbent
+700,"[15, 1]",Electrode
+701,"[15, 2]",LiCO3
+702,"[15, 3]",SEI cluster
+703,"[15, 4]",SEI cluster
+704,"[15, 5]",SEI cluster
+705,"[15, 6]",SEI cluster
+706,"[15, 7]",SEI cluster
+707,"[15, 8]",SEI cluster
+708,"[15, 9]",SEI cluster
+709,"[15, 10]",SEI cluster
+710,"[15, 11]",SEI cluster
+711,"[15, 12]",SEI cluster
+712,"[15, 13]",SEI cluster
+713,"[15, 14]",SEI cluster
+714,"[15, 15]",SEI cluster
+715,"[15, 16]",SEI cluster
+716,"[15, 17]",SEI cluster
+717,"[15, 18]",SEI cluster
+718,"[15, 19]",SEI cluster
+719,"[15, 20]",empty
+720,"[15, 21]",empty
+721,"[15, 22]",empty
+722,"[15, 23]",empty
+723,"[15, 24]",empty
+724,"[15, 25]",empty
+725,"[15, 26]",empty
+726,"[15, 27]",empty
+727,"[15, 28]",empty
+728,"[15, 29]",empty
+729,"[15, 30]",empty
+730,"[15, 31]",empty
+731,"[15, 32]",empty
+732,"[15, 33]",empty
+733,"[15, 34]",empty
+734,"[15, 35]",empty
+735,"[15, 36]",empty
+736,"[15, 37]",empty
+737,"[15, 38]",empty
+738,"[15, 39]",empty
+739,"[15, 40]",empty
+740,"[15, 41]",empty
+741,"[15, 42]",empty
+742,"[15, 43]",empty
+743,"[15, 44]",empty
+744,"[15, 45]",empty
+745,"[15, 46]",empty
+746,"[15, 47]",empty
+747,"[15, 48]",empty
+748,"[15, 49]",empty
+749,"[15, 50]",Adsorbent
+750,"[16, 1]",Electrode
+751,"[16, 2]",LiCO3
+752,"[16, 3]",P
+753,"[16, 4]",SEI cluster
+754,"[16, 5]",SEI cluster
+755,"[16, 6]",SEI cluster
+756,"[16, 7]",SEI cluster
+757,"[16, 8]",SEI cluster
+758,"[16, 9]",SEI cluster
+759,"[16, 10]",SEI cluster
+760,"[16, 11]",SEI cluster
+761,"[16, 12]",SEI cluster
+762,"[16, 13]",SEI cluster
+763,"[16, 14]",SEI cluster
+764,"[16, 15]",empty
+765,"[16, 16]",empty
+766,"[16, 17]",SEI cluster
+767,"[16, 18]",SEI cluster
+768,"[16, 19]",SEI cluster
+769,"[16, 20]",empty
+770,"[16, 21]",SEI cluster
+771,"[16, 22]",empty
+772,"[16, 23]",empty
+773,"[16, 24]",empty
+774,"[16, 25]",empty
+775,"[16, 26]",empty
+776,"[16, 27]",empty
+777,"[16, 28]",empty
+778,"[16, 29]",empty
+779,"[16, 30]",empty
+780,"[16, 31]",empty
+781,"[16, 32]",empty
+782,"[16, 33]",empty
+783,"[16, 34]",empty
+784,"[16, 35]",empty
+785,"[16, 36]",empty
+786,"[16, 37]",empty
+787,"[16, 38]",empty
+788,"[16, 39]",empty
+789,"[16, 40]",empty
+790,"[16, 41]",empty
+791,"[16, 42]",empty
+792,"[16, 43]",empty
+793,"[16, 44]",empty
+794,"[16, 45]",empty
+795,"[16, 46]",empty
+796,"[16, 47]",empty
+797,"[16, 48]",empty
+798,"[16, 49]",empty
+799,"[16, 50]",Adsorbent
+800,"[17, 1]",Electrode
+801,"[17, 2]",LiCO3
+802,"[17, 3]",SEI cluster
+803,"[17, 4]",SEI cluster
+804,"[17, 5]",SEI cluster
+805,"[17, 6]",SEI cluster
+806,"[17, 7]",SEI cluster
+807,"[17, 8]",SEI cluster
+808,"[17, 9]",SEI cluster
+809,"[17, 10]",SEI cluster
+810,"[17, 11]",SEI cluster
+811,"[17, 12]",SEI cluster
+812,"[17, 13]",SEI cluster
+813,"[17, 14]",SEI cluster
+814,"[17, 15]",empty
+815,"[17, 16]",SEI cluster
+816,"[17, 17]",SEI cluster
+817,"[17, 18]",SEI cluster
+818,"[17, 19]",SEI cluster
+819,"[17, 20]",SEI cluster
+820,"[17, 21]",SEI cluster
+821,"[17, 22]",empty
+822,"[17, 23]",empty
+823,"[17, 24]",empty
+824,"[17, 25]",empty
+825,"[17, 26]",empty
+826,"[17, 27]",empty
+827,"[17, 28]",empty
+828,"[17, 29]",empty
+829,"[17, 30]",empty
+830,"[17, 31]",empty
+831,"[17, 32]",empty
+832,"[17, 33]",empty
+833,"[17, 34]",empty
+834,"[17, 35]",empty
+835,"[17, 36]",empty
+836,"[17, 37]",empty
+837,"[17, 38]",empty
+838,"[17, 39]",empty
+839,"[17, 40]",empty
+840,"[17, 41]",empty
+841,"[17, 42]",empty
+842,"[17, 43]",empty
+843,"[17, 44]",empty
+844,"[17, 45]",empty
+845,"[17, 46]",empty
+846,"[17, 47]",empty
+847,"[17, 48]",empty
+848,"[17, 49]",empty
+849,"[17, 50]",Adsorbent
+850,"[18, 1]",Electrode
+851,"[18, 2]",LiCO3
+852,"[18, 3]",LiCO3
+853,"[18, 4]",SEI cluster
+854,"[18, 5]",SEI cluster
+855,"[18, 6]",SEI cluster
+856,"[18, 7]",SEI cluster
+857,"[18, 8]",SEI cluster
+858,"[18, 9]",SEI cluster
+859,"[18, 10]",SEI cluster
+860,"[18, 11]",SEI cluster
+861,"[18, 12]",SEI cluster
+862,"[18, 13]",SEI cluster
+863,"[18, 14]",SEI cluster
+864,"[18, 15]",SEI cluster
+865,"[18, 16]",SEI cluster
+866,"[18, 17]",SEI cluster
+867,"[18, 18]",SEI cluster
+868,"[18, 19]",SEI cluster
+869,"[18, 20]",empty
+870,"[18, 21]",empty
+871,"[18, 22]",empty
+872,"[18, 23]",empty
+873,"[18, 24]",empty
+874,"[18, 25]",empty
+875,"[18, 26]",empty
+876,"[18, 27]",empty
+877,"[18, 28]",empty
+878,"[18, 29]",empty
+879,"[18, 30]",empty
+880,"[18, 31]",empty
+881,"[18, 32]",empty
+882,"[18, 33]",empty
+883,"[18, 34]",empty
+884,"[18, 35]",empty
+885,"[18, 36]",empty
+886,"[18, 37]",empty
+887,"[18, 38]",empty
+888,"[18, 39]",empty
+889,"[18, 40]",empty
+890,"[18, 41]",empty
+891,"[18, 42]",empty
+892,"[18, 43]",empty
+893,"[18, 44]",empty
+894,"[18, 45]",empty
+895,"[18, 46]",empty
+896,"[18, 47]",empty
+897,"[18, 48]",empty
+898,"[18, 49]",empty
+899,"[18, 50]",Adsorbent
+900,"[19, 1]",Electrode
+901,"[19, 2]",LiCO3
+902,"[19, 3]",LiCO3
+903,"[19, 4]",P
+904,"[19, 5]",SEI cluster
+905,"[19, 6]",SEI cluster
+906,"[19, 7]",SEI cluster
+907,"[19, 8]",SEI cluster
+908,"[19, 9]",SEI cluster
+909,"[19, 10]",SEI cluster
+910,"[19, 11]",SEI cluster
+911,"[19, 12]",empty
+912,"[19, 13]",SEI cluster
+913,"[19, 14]",SEI cluster
+914,"[19, 15]",SEI cluster
+915,"[19, 16]",SEI cluster
+916,"[19, 17]",SEI cluster
+917,"[19, 18]",SEI cluster
+918,"[19, 19]",SEI cluster
+919,"[19, 20]",SEI cluster
+920,"[19, 21]",empty
+921,"[19, 22]",empty
+922,"[19, 23]",empty
+923,"[19, 24]",empty
+924,"[19, 25]",empty
+925,"[19, 26]",empty
+926,"[19, 27]",empty
+927,"[19, 28]",empty
+928,"[19, 29]",empty
+929,"[19, 30]",empty
+930,"[19, 31]",empty
+931,"[19, 32]",empty
+932,"[19, 33]",empty
+933,"[19, 34]",empty
+934,"[19, 35]",empty
+935,"[19, 36]",empty
+936,"[19, 37]",empty
+937,"[19, 38]",empty
+938,"[19, 39]",empty
+939,"[19, 40]",empty
+940,"[19, 41]",empty
+941,"[19, 42]",empty
+942,"[19, 43]",empty
+943,"[19, 44]",empty
+944,"[19, 45]",empty
+945,"[19, 46]",empty
+946,"[19, 47]",empty
+947,"[19, 48]",empty
+948,"[19, 49]",empty
+949,"[19, 50]",Adsorbent
+950,"[20, 1]",Electrode
+951,"[20, 2]",LiCO3
+952,"[20, 3]",LiCO3
+953,"[20, 4]",SEI cluster
+954,"[20, 5]",SEI cluster
+955,"[20, 6]",empty
+956,"[20, 7]",P
+957,"[20, 8]",SEI cluster
+958,"[20, 9]",SEI cluster
+959,"[20, 10]",empty
+960,"[20, 11]",empty
+961,"[20, 12]",SEI cluster
+962,"[20, 13]",SEI cluster
+963,"[20, 14]",empty
+964,"[20, 15]",SEI cluster
+965,"[20, 16]",SEI cluster
+966,"[20, 17]",SEI cluster
+967,"[20, 18]",SEI cluster
+968,"[20, 19]",SEI cluster
+969,"[20, 20]",empty
+970,"[20, 21]",SEI cluster
+971,"[20, 22]",empty
+972,"[20, 23]",empty
+973,"[20, 24]",empty
+974,"[20, 25]",empty
+975,"[20, 26]",empty
+976,"[20, 27]",empty
+977,"[20, 28]",empty
+978,"[20, 29]",empty
+979,"[20, 30]",SEI cluster
+980,"[20, 31]",empty
+981,"[20, 32]",empty
+982,"[20, 33]",empty
+983,"[20, 34]",empty
+984,"[20, 35]",empty
+985,"[20, 36]",empty
+986,"[20, 37]",empty
+987,"[20, 38]",empty
+988,"[20, 39]",empty
+989,"[20, 40]",empty
+990,"[20, 41]",empty
+991,"[20, 42]",empty
+992,"[20, 43]",empty
+993,"[20, 44]",empty
+994,"[20, 45]",empty
+995,"[20, 46]",empty
+996,"[20, 47]",empty
+997,"[20, 48]",empty
+998,"[20, 49]",empty
+999,"[20, 50]",Adsorbent
+1000,"[21, 1]",Electrode
+1001,"[21, 2]",LiCO3
+1002,"[21, 3]",LiCO3
+1003,"[21, 4]",SEI cluster
+1004,"[21, 5]",empty
+1005,"[21, 6]",SEI cluster
+1006,"[21, 7]",SEI cluster
+1007,"[21, 8]",SEI cluster
+1008,"[21, 9]",empty
+1009,"[21, 10]",P
+1010,"[21, 11]",Li2EDC
+1011,"[21, 12]",empty
+1012,"[21, 13]",empty
+1013,"[21, 14]",SEI cluster
+1014,"[21, 15]",SEI cluster
+1015,"[21, 16]",SEI cluster
+1016,"[21, 17]",SEI cluster
+1017,"[21, 18]",SEI cluster
+1018,"[21, 19]",empty
+1019,"[21, 20]",empty
+1020,"[21, 21]",SEI cluster
+1021,"[21, 22]",empty
+1022,"[21, 23]",empty
+1023,"[21, 24]",empty
+1024,"[21, 25]",SEI cluster
+1025,"[21, 26]",SEI cluster
+1026,"[21, 27]",empty
+1027,"[21, 28]",empty
+1028,"[21, 29]",SEI cluster
+1029,"[21, 30]",SEI cluster
+1030,"[21, 31]",empty
+1031,"[21, 32]",SEI cluster
+1032,"[21, 33]",empty
+1033,"[21, 34]",empty
+1034,"[21, 35]",empty
+1035,"[21, 36]",empty
+1036,"[21, 37]",empty
+1037,"[21, 38]",empty
+1038,"[21, 39]",empty
+1039,"[21, 40]",empty
+1040,"[21, 41]",empty
+1041,"[21, 42]",empty
+1042,"[21, 43]",empty
+1043,"[21, 44]",empty
+1044,"[21, 45]",empty
+1045,"[21, 46]",empty
+1046,"[21, 47]",empty
+1047,"[21, 48]",empty
+1048,"[21, 49]",empty
+1049,"[21, 50]",Adsorbent
+1050,"[22, 1]",Electrode
+1051,"[22, 2]",LiCO3
+1052,"[22, 3]",LiCO3
+1053,"[22, 4]",LiCO3
+1054,"[22, 5]",SEI cluster
+1055,"[22, 6]",SEI cluster
+1056,"[22, 7]",SEI cluster
+1057,"[22, 8]",SEI cluster
+1058,"[22, 9]",SEI cluster
+1059,"[22, 10]",empty
+1060,"[22, 11]",empty
+1061,"[22, 12]",Li2EDC
+1062,"[22, 13]",empty
+1063,"[22, 14]",SEI cluster
+1064,"[22, 15]",SEI cluster
+1065,"[22, 16]",SEI cluster
+1066,"[22, 17]",SEI cluster
+1067,"[22, 18]",SEI cluster
+1068,"[22, 19]",SEI cluster
+1069,"[22, 20]",SEI cluster
+1070,"[22, 21]",SEI cluster
+1071,"[22, 22]",SEI cluster
+1072,"[22, 23]",SEI cluster
+1073,"[22, 24]",SEI cluster
+1074,"[22, 25]",SEI cluster
+1075,"[22, 26]",SEI cluster
+1076,"[22, 27]",SEI cluster
+1077,"[22, 28]",empty
+1078,"[22, 29]",SEI cluster
+1079,"[22, 30]",SEI cluster
+1080,"[22, 31]",SEI cluster
+1081,"[22, 32]",SEI cluster
+1082,"[22, 33]",SEI cluster
+1083,"[22, 34]",empty
+1084,"[22, 35]",empty
+1085,"[22, 36]",empty
+1086,"[22, 37]",empty
+1087,"[22, 38]",empty
+1088,"[22, 39]",empty
+1089,"[22, 40]",empty
+1090,"[22, 41]",empty
+1091,"[22, 42]",empty
+1092,"[22, 43]",empty
+1093,"[22, 44]",empty
+1094,"[22, 45]",empty
+1095,"[22, 46]",empty
+1096,"[22, 47]",empty
+1097,"[22, 48]",empty
+1098,"[22, 49]",empty
+1099,"[22, 50]",Adsorbent
+1100,"[23, 1]",Electrode
+1101,"[23, 2]",LiCO3
+1102,"[23, 3]",LiCO3
+1103,"[23, 4]",LiCO3
+1104,"[23, 5]",SEI cluster
+1105,"[23, 6]",SEI cluster
+1106,"[23, 7]",SEI cluster
+1107,"[23, 8]",SEI cluster
+1108,"[23, 9]",SEI cluster
+1109,"[23, 10]",SEI cluster
+1110,"[23, 11]",SEI cluster
+1111,"[23, 12]",empty
+1112,"[23, 13]",empty
+1113,"[23, 14]",SEI cluster
+1114,"[23, 15]",SEI cluster
+1115,"[23, 16]",SEI cluster
+1116,"[23, 17]",SEI cluster
+1117,"[23, 18]",empty
+1118,"[23, 19]",SEI cluster
+1119,"[23, 20]",SEI cluster
+1120,"[23, 21]",SEI cluster
+1121,"[23, 22]",SEI cluster
+1122,"[23, 23]",SEI cluster
+1123,"[23, 24]",SEI cluster
+1124,"[23, 25]",SEI cluster
+1125,"[23, 26]",SEI cluster
+1126,"[23, 27]",SEI cluster
+1127,"[23, 28]",empty
+1128,"[23, 29]",SEI cluster
+1129,"[23, 30]",SEI cluster
+1130,"[23, 31]",SEI cluster
+1131,"[23, 32]",SEI cluster
+1132,"[23, 33]",empty
+1133,"[23, 34]",empty
+1134,"[23, 35]",empty
+1135,"[23, 36]",empty
+1136,"[23, 37]",empty
+1137,"[23, 38]",empty
+1138,"[23, 39]",empty
+1139,"[23, 40]",empty
+1140,"[23, 41]",empty
+1141,"[23, 42]",empty
+1142,"[23, 43]",empty
+1143,"[23, 44]",empty
+1144,"[23, 45]",empty
+1145,"[23, 46]",empty
+1146,"[23, 47]",empty
+1147,"[23, 48]",empty
+1148,"[23, 49]",empty
+1149,"[23, 50]",Adsorbent
+1150,"[24, 1]",Electrode
+1151,"[24, 2]",LiCO3
+1152,"[24, 3]",SEI cluster
+1153,"[24, 4]",LiCO3
+1154,"[24, 5]",LiCO3
+1155,"[24, 6]",SEI cluster
+1156,"[24, 7]",SEI cluster
+1157,"[24, 8]",SEI cluster
+1158,"[24, 9]",SEI cluster
+1159,"[24, 10]",SEI cluster
+1160,"[24, 11]",SEI cluster
+1161,"[24, 12]",SEI cluster
+1162,"[24, 13]",SEI cluster
+1163,"[24, 14]",SEI cluster
+1164,"[24, 15]",SEI cluster
+1165,"[24, 16]",SEI cluster
+1166,"[24, 17]",SEI cluster
+1167,"[24, 18]",SEI cluster
+1168,"[24, 19]",SEI cluster
+1169,"[24, 20]",empty
+1170,"[24, 21]",SEI cluster
+1171,"[24, 22]",SEI cluster
+1172,"[24, 23]",SEI cluster
+1173,"[24, 24]",SEI cluster
+1174,"[24, 25]",SEI cluster
+1175,"[24, 26]",SEI cluster
+1176,"[24, 27]",SEI cluster
+1177,"[24, 28]",SEI cluster
+1178,"[24, 29]",SEI cluster
+1179,"[24, 30]",SEI cluster
+1180,"[24, 31]",SEI cluster
+1181,"[24, 32]",SEI cluster
+1182,"[24, 33]",empty
+1183,"[24, 34]",empty
+1184,"[24, 35]",empty
+1185,"[24, 36]",empty
+1186,"[24, 37]",empty
+1187,"[24, 38]",empty
+1188,"[24, 39]",empty
+1189,"[24, 40]",empty
+1190,"[24, 41]",empty
+1191,"[24, 42]",empty
+1192,"[24, 43]",empty
+1193,"[24, 44]",empty
+1194,"[24, 45]",empty
+1195,"[24, 46]",empty
+1196,"[24, 47]",empty
+1197,"[24, 48]",empty
+1198,"[24, 49]",empty
+1199,"[24, 50]",Adsorbent
+1200,"[25, 1]",Electrode
+1201,"[25, 2]",LiCO3
+1202,"[25, 3]",SEI cluster
+1203,"[25, 4]",SEI cluster
+1204,"[25, 5]",SEI cluster
+1205,"[25, 6]",SEI cluster
+1206,"[25, 7]",SEI cluster
+1207,"[25, 8]",SEI cluster
+1208,"[25, 9]",SEI cluster
+1209,"[25, 10]",SEI cluster
+1210,"[25, 11]",SEI cluster
+1211,"[25, 12]",SEI cluster
+1212,"[25, 13]",SEI cluster
+1213,"[25, 14]",SEI cluster
+1214,"[25, 15]",SEI cluster
+1215,"[25, 16]",SEI cluster
+1216,"[25, 17]",SEI cluster
+1217,"[25, 18]",empty
+1218,"[25, 19]",SEI cluster
+1219,"[25, 20]",SEI cluster
+1220,"[25, 21]",SEI cluster
+1221,"[25, 22]",empty
+1222,"[25, 23]",empty
+1223,"[25, 24]",SEI cluster
+1224,"[25, 25]",SEI cluster
+1225,"[25, 26]",SEI cluster
+1226,"[25, 27]",SEI cluster
+1227,"[25, 28]",SEI cluster
+1228,"[25, 29]",SEI cluster
+1229,"[25, 30]",SEI cluster
+1230,"[25, 31]",SEI cluster
+1231,"[25, 32]",empty
+1232,"[25, 33]",empty
+1233,"[25, 34]",empty
+1234,"[25, 35]",empty
+1235,"[25, 36]",empty
+1236,"[25, 37]",empty
+1237,"[25, 38]",empty
+1238,"[25, 39]",empty
+1239,"[25, 40]",empty
+1240,"[25, 41]",empty
+1241,"[25, 42]",empty
+1242,"[25, 43]",empty
+1243,"[25, 44]",empty
+1244,"[25, 45]",empty
+1245,"[25, 46]",empty
+1246,"[25, 47]",empty
+1247,"[25, 48]",empty
+1248,"[25, 49]",empty
+1249,"[25, 50]",Adsorbent
+1250,"[26, 1]",Electrode
+1251,"[26, 2]",LiCO3
+1252,"[26, 3]",P
+1253,"[26, 4]",SEI cluster
+1254,"[26, 5]",SEI cluster
+1255,"[26, 6]",SEI cluster
+1256,"[26, 7]",SEI cluster
+1257,"[26, 8]",SEI cluster
+1258,"[26, 9]",SEI cluster
+1259,"[26, 10]",SEI cluster
+1260,"[26, 11]",SEI cluster
+1261,"[26, 12]",SEI cluster
+1262,"[26, 13]",SEI cluster
+1263,"[26, 14]",SEI cluster
+1264,"[26, 15]",SEI cluster
+1265,"[26, 16]",SEI cluster
+1266,"[26, 17]",SEI cluster
+1267,"[26, 18]",empty
+1268,"[26, 19]",SEI cluster
+1269,"[26, 20]",SEI cluster
+1270,"[26, 21]",SEI cluster
+1271,"[26, 22]",SEI cluster
+1272,"[26, 23]",SEI cluster
+1273,"[26, 24]",SEI cluster
+1274,"[26, 25]",SEI cluster
+1275,"[26, 26]",SEI cluster
+1276,"[26, 27]",SEI cluster
+1277,"[26, 28]",empty
+1278,"[26, 29]",empty
+1279,"[26, 30]",SEI cluster
+1280,"[26, 31]",SEI cluster
+1281,"[26, 32]",empty
+1282,"[26, 33]",empty
+1283,"[26, 34]",empty
+1284,"[26, 35]",empty
+1285,"[26, 36]",empty
+1286,"[26, 37]",empty
+1287,"[26, 38]",empty
+1288,"[26, 39]",empty
+1289,"[26, 40]",empty
+1290,"[26, 41]",empty
+1291,"[26, 42]",empty
+1292,"[26, 43]",empty
+1293,"[26, 44]",empty
+1294,"[26, 45]",empty
+1295,"[26, 46]",empty
+1296,"[26, 47]",empty
+1297,"[26, 48]",empty
+1298,"[26, 49]",empty
+1299,"[26, 50]",Adsorbent
+1300,"[27, 1]",Electrode
+1301,"[27, 2]",LiCO3
+1302,"[27, 3]",SEI cluster
+1303,"[27, 4]",SEI cluster
+1304,"[27, 5]",SEI cluster
+1305,"[27, 6]",SEI cluster
+1306,"[27, 7]",SEI cluster
+1307,"[27, 8]",SEI cluster
+1308,"[27, 9]",SEI cluster
+1309,"[27, 10]",SEI cluster
+1310,"[27, 11]",SEI cluster
+1311,"[27, 12]",SEI cluster
+1312,"[27, 13]",SEI cluster
+1313,"[27, 14]",SEI cluster
+1314,"[27, 15]",SEI cluster
+1315,"[27, 16]",SEI cluster
+1316,"[27, 17]",SEI cluster
+1317,"[27, 18]",empty
+1318,"[27, 19]",SEI cluster
+1319,"[27, 20]",SEI cluster
+1320,"[27, 21]",SEI cluster
+1321,"[27, 22]",SEI cluster
+1322,"[27, 23]",SEI cluster
+1323,"[27, 24]",SEI cluster
+1324,"[27, 25]",SEI cluster
+1325,"[27, 26]",empty
+1326,"[27, 27]",SEI cluster
+1327,"[27, 28]",empty
+1328,"[27, 29]",SEI cluster
+1329,"[27, 30]",SEI cluster
+1330,"[27, 31]",empty
+1331,"[27, 32]",empty
+1332,"[27, 33]",empty
+1333,"[27, 34]",empty
+1334,"[27, 35]",empty
+1335,"[27, 36]",empty
+1336,"[27, 37]",empty
+1337,"[27, 38]",empty
+1338,"[27, 39]",empty
+1339,"[27, 40]",empty
+1340,"[27, 41]",empty
+1341,"[27, 42]",empty
+1342,"[27, 43]",empty
+1343,"[27, 44]",empty
+1344,"[27, 45]",empty
+1345,"[27, 46]",empty
+1346,"[27, 47]",empty
+1347,"[27, 48]",empty
+1348,"[27, 49]",empty
+1349,"[27, 50]",Adsorbent
+1350,"[28, 1]",Electrode
+1351,"[28, 2]",LiCO3
+1352,"[28, 3]",SEI cluster
+1353,"[28, 4]",SEI cluster
+1354,"[28, 5]",SEI cluster
+1355,"[28, 6]",SEI cluster
+1356,"[28, 7]",SEI cluster
+1357,"[28, 8]",P
+1358,"[28, 9]",SEI cluster
+1359,"[28, 10]",SEI cluster
+1360,"[28, 11]",SEI cluster
+1361,"[28, 12]",SEI cluster
+1362,"[28, 13]",SEI cluster
+1363,"[28, 14]",SEI cluster
+1364,"[28, 15]",SEI cluster
+1365,"[28, 16]",SEI cluster
+1366,"[28, 17]",SEI cluster
+1367,"[28, 18]",SEI cluster
+1368,"[28, 19]",SEI cluster
+1369,"[28, 20]",SEI cluster
+1370,"[28, 21]",SEI cluster
+1371,"[28, 22]",SEI cluster
+1372,"[28, 23]",SEI cluster
+1373,"[28, 24]",SEI cluster
+1374,"[28, 25]",SEI cluster
+1375,"[28, 26]",SEI cluster
+1376,"[28, 27]",SEI cluster
+1377,"[28, 28]",SEI cluster
+1378,"[28, 29]",SEI cluster
+1379,"[28, 30]",SEI cluster
+1380,"[28, 31]",SEI cluster
+1381,"[28, 32]",empty
+1382,"[28, 33]",empty
+1383,"[28, 34]",empty
+1384,"[28, 35]",empty
+1385,"[28, 36]",empty
+1386,"[28, 37]",empty
+1387,"[28, 38]",empty
+1388,"[28, 39]",empty
+1389,"[28, 40]",empty
+1390,"[28, 41]",empty
+1391,"[28, 42]",empty
+1392,"[28, 43]",empty
+1393,"[28, 44]",empty
+1394,"[28, 45]",empty
+1395,"[28, 46]",empty
+1396,"[28, 47]",empty
+1397,"[28, 48]",empty
+1398,"[28, 49]",empty
+1399,"[28, 50]",Adsorbent
+1400,"[29, 1]",Electrode
+1401,"[29, 2]",LiCO3
+1402,"[29, 3]",LiCO3
+1403,"[29, 4]",LiCO3
+1404,"[29, 5]",SEI cluster
+1405,"[29, 6]",P
+1406,"[29, 7]",SEI cluster
+1407,"[29, 8]",SEI cluster
+1408,"[29, 9]",SEI cluster
+1409,"[29, 10]",SEI cluster
+1410,"[29, 11]",SEI cluster
+1411,"[29, 12]",SEI cluster
+1412,"[29, 13]",SEI cluster
+1413,"[29, 14]",SEI cluster
+1414,"[29, 15]",SEI cluster
+1415,"[29, 16]",SEI cluster
+1416,"[29, 17]",SEI cluster
+1417,"[29, 18]",empty
+1418,"[29, 19]",SEI cluster
+1419,"[29, 20]",SEI cluster
+1420,"[29, 21]",SEI cluster
+1421,"[29, 22]",SEI cluster
+1422,"[29, 23]",SEI cluster
+1423,"[29, 24]",SEI cluster
+1424,"[29, 25]",SEI cluster
+1425,"[29, 26]",empty
+1426,"[29, 27]",SEI cluster
+1427,"[29, 28]",SEI cluster
+1428,"[29, 29]",SEI cluster
+1429,"[29, 30]",SEI cluster
+1430,"[29, 31]",SEI cluster
+1431,"[29, 32]",empty
+1432,"[29, 33]",empty
+1433,"[29, 34]",empty
+1434,"[29, 35]",empty
+1435,"[29, 36]",empty
+1436,"[29, 37]",empty
+1437,"[29, 38]",empty
+1438,"[29, 39]",empty
+1439,"[29, 40]",empty
+1440,"[29, 41]",empty
+1441,"[29, 42]",empty
+1442,"[29, 43]",empty
+1443,"[29, 44]",empty
+1444,"[29, 45]",empty
+1445,"[29, 46]",empty
+1446,"[29, 47]",empty
+1447,"[29, 48]",empty
+1448,"[29, 49]",empty
+1449,"[29, 50]",Adsorbent
+1450,"[30, 1]",Electrode
+1451,"[30, 2]",LiCO3
+1452,"[30, 3]",LiCO3
+1453,"[30, 4]",Li2EDC
+1454,"[30, 5]",LiCO3
+1455,"[30, 6]",SEI cluster
+1456,"[30, 7]",SEI cluster
+1457,"[30, 8]",SEI cluster
+1458,"[30, 9]",SEI cluster
+1459,"[30, 10]",SEI cluster
+1460,"[30, 11]",SEI cluster
+1461,"[30, 12]",SEI cluster
+1462,"[30, 13]",SEI cluster
+1463,"[30, 14]",SEI cluster
+1464,"[30, 15]",SEI cluster
+1465,"[30, 16]",empty
+1466,"[30, 17]",SEI cluster
+1467,"[30, 18]",empty
+1468,"[30, 19]",SEI cluster
+1469,"[30, 20]",empty
+1470,"[30, 21]",SEI cluster
+1471,"[30, 22]",SEI cluster
+1472,"[30, 23]",SEI cluster
+1473,"[30, 24]",SEI cluster
+1474,"[30, 25]",SEI cluster
+1475,"[30, 26]",empty
+1476,"[30, 27]",empty
+1477,"[30, 28]",SEI cluster
+1478,"[30, 29]",empty
+1479,"[30, 30]",SEI cluster
+1480,"[30, 31]",SEI cluster
+1481,"[30, 32]",SEI cluster
+1482,"[30, 33]",empty
+1483,"[30, 34]",empty
+1484,"[30, 35]",empty
+1485,"[30, 36]",empty
+1486,"[30, 37]",empty
+1487,"[30, 38]",empty
+1488,"[30, 39]",empty
+1489,"[30, 40]",empty
+1490,"[30, 41]",empty
+1491,"[30, 42]",empty
+1492,"[30, 43]",empty
+1493,"[30, 44]",empty
+1494,"[30, 45]",empty
+1495,"[30, 46]",empty
+1496,"[30, 47]",empty
+1497,"[30, 48]",empty
+1498,"[30, 49]",empty
+1499,"[30, 50]",Adsorbent
+1500,"[31, 1]",Electrode
+1501,"[31, 2]",LiCO3
+1502,"[31, 3]",LiCO3
+1503,"[31, 4]",LiCO3
+1504,"[31, 5]",LiCO3
+1505,"[31, 6]",SEI cluster
+1506,"[31, 7]",SEI cluster
+1507,"[31, 8]",SEI cluster
+1508,"[31, 9]",SEI cluster
+1509,"[31, 10]",SEI cluster
+1510,"[31, 11]",SEI cluster
+1511,"[31, 12]",empty
+1512,"[31, 13]",SEI cluster
+1513,"[31, 14]",SEI cluster
+1514,"[31, 15]",SEI cluster
+1515,"[31, 16]",SEI cluster
+1516,"[31, 17]",SEI cluster
+1517,"[31, 18]",SEI cluster
+1518,"[31, 19]",SEI cluster
+1519,"[31, 20]",SEI cluster
+1520,"[31, 21]",SEI cluster
+1521,"[31, 22]",SEI cluster
+1522,"[31, 23]",SEI cluster
+1523,"[31, 24]",SEI cluster
+1524,"[31, 25]",SEI cluster
+1525,"[31, 26]",SEI cluster
+1526,"[31, 27]",SEI cluster
+1527,"[31, 28]",SEI cluster
+1528,"[31, 29]",SEI cluster
+1529,"[31, 30]",SEI cluster
+1530,"[31, 31]",empty
+1531,"[31, 32]",empty
+1532,"[31, 33]",empty
+1533,"[31, 34]",empty
+1534,"[31, 35]",empty
+1535,"[31, 36]",empty
+1536,"[31, 37]",empty
+1537,"[31, 38]",empty
+1538,"[31, 39]",empty
+1539,"[31, 40]",empty
+1540,"[31, 41]",empty
+1541,"[31, 42]",empty
+1542,"[31, 43]",empty
+1543,"[31, 44]",empty
+1544,"[31, 45]",empty
+1545,"[31, 46]",empty
+1546,"[31, 47]",empty
+1547,"[31, 48]",empty
+1548,"[31, 49]",empty
+1549,"[31, 50]",Adsorbent
+1550,"[32, 1]",Electrode
+1551,"[32, 2]",LiCO3
+1552,"[32, 3]",LiCO3
+1553,"[32, 4]",LiCO3
+1554,"[32, 5]",LiCO3
+1555,"[32, 6]",SEI cluster
+1556,"[32, 7]",P
+1557,"[32, 8]",SEI cluster
+1558,"[32, 9]",SEI cluster
+1559,"[32, 10]",SEI cluster
+1560,"[32, 11]",SEI cluster
+1561,"[32, 12]",empty
+1562,"[32, 13]",SEI cluster
+1563,"[32, 14]",SEI cluster
+1564,"[32, 15]",SEI cluster
+1565,"[32, 16]",SEI cluster
+1566,"[32, 17]",SEI cluster
+1567,"[32, 18]",SEI cluster
+1568,"[32, 19]",SEI cluster
+1569,"[32, 20]",SEI cluster
+1570,"[32, 21]",SEI cluster
+1571,"[32, 22]",empty
+1572,"[32, 23]",SEI cluster
+1573,"[32, 24]",SEI cluster
+1574,"[32, 25]",empty
+1575,"[32, 26]",SEI cluster
+1576,"[32, 27]",empty
+1577,"[32, 28]",empty
+1578,"[32, 29]",empty
+1579,"[32, 30]",SEI cluster
+1580,"[32, 31]",SEI cluster
+1581,"[32, 32]",empty
+1582,"[32, 33]",empty
+1583,"[32, 34]",empty
+1584,"[32, 35]",empty
+1585,"[32, 36]",empty
+1586,"[32, 37]",empty
+1587,"[32, 38]",empty
+1588,"[32, 39]",empty
+1589,"[32, 40]",empty
+1590,"[32, 41]",empty
+1591,"[32, 42]",empty
+1592,"[32, 43]",empty
+1593,"[32, 44]",empty
+1594,"[32, 45]",empty
+1595,"[32, 46]",empty
+1596,"[32, 47]",empty
+1597,"[32, 48]",empty
+1598,"[32, 49]",empty
+1599,"[32, 50]",Adsorbent
+1600,"[33, 1]",Electrode
+1601,"[33, 2]",LiCO3
+1602,"[33, 3]",SEI cluster
+1603,"[33, 4]",SEI cluster
+1604,"[33, 5]",SEI cluster
+1605,"[33, 6]",SEI cluster
+1606,"[33, 7]",SEI cluster
+1607,"[33, 8]",SEI cluster
+1608,"[33, 9]",SEI cluster
+1609,"[33, 10]",SEI cluster
+1610,"[33, 11]",SEI cluster
+1611,"[33, 12]",SEI cluster
+1612,"[33, 13]",SEI cluster
+1613,"[33, 14]",SEI cluster
+1614,"[33, 15]",empty
+1615,"[33, 16]",SEI cluster
+1616,"[33, 17]",empty
+1617,"[33, 18]",SEI cluster
+1618,"[33, 19]",SEI cluster
+1619,"[33, 20]",SEI cluster
+1620,"[33, 21]",SEI cluster
+1621,"[33, 22]",empty
+1622,"[33, 23]",SEI cluster
+1623,"[33, 24]",empty
+1624,"[33, 25]",SEI cluster
+1625,"[33, 26]",SEI cluster
+1626,"[33, 27]",SEI cluster
+1627,"[33, 28]",empty
+1628,"[33, 29]",empty
+1629,"[33, 30]",empty
+1630,"[33, 31]",empty
+1631,"[33, 32]",empty
+1632,"[33, 33]",empty
+1633,"[33, 34]",empty
+1634,"[33, 35]",empty
+1635,"[33, 36]",empty
+1636,"[33, 37]",empty
+1637,"[33, 38]",empty
+1638,"[33, 39]",empty
+1639,"[33, 40]",empty
+1640,"[33, 41]",empty
+1641,"[33, 42]",empty
+1642,"[33, 43]",empty
+1643,"[33, 44]",empty
+1644,"[33, 45]",empty
+1645,"[33, 46]",empty
+1646,"[33, 47]",empty
+1647,"[33, 48]",empty
+1648,"[33, 49]",empty
+1649,"[33, 50]",Adsorbent
+1650,"[34, 1]",Electrode
+1651,"[34, 2]",LiCO3
+1652,"[34, 3]",P
+1653,"[34, 4]",SEI cluster
+1654,"[34, 5]",SEI cluster
+1655,"[34, 6]",SEI cluster
+1656,"[34, 7]",SEI cluster
+1657,"[34, 8]",SEI cluster
+1658,"[34, 9]",SEI cluster
+1659,"[34, 10]",SEI cluster
+1660,"[34, 11]",SEI cluster
+1661,"[34, 12]",SEI cluster
+1662,"[34, 13]",SEI cluster
+1663,"[34, 14]",SEI cluster
+1664,"[34, 15]",SEI cluster
+1665,"[34, 16]",SEI cluster
+1666,"[34, 17]",SEI cluster
+1667,"[34, 18]",SEI cluster
+1668,"[34, 19]",SEI cluster
+1669,"[34, 20]",SEI cluster
+1670,"[34, 21]",SEI cluster
+1671,"[34, 22]",SEI cluster
+1672,"[34, 23]",SEI cluster
+1673,"[34, 24]",SEI cluster
+1674,"[34, 25]",SEI cluster
+1675,"[34, 26]",SEI cluster
+1676,"[34, 27]",SEI cluster
+1677,"[34, 28]",empty
+1678,"[34, 29]",empty
+1679,"[34, 30]",empty
+1680,"[34, 31]",empty
+1681,"[34, 32]",empty
+1682,"[34, 33]",empty
+1683,"[34, 34]",empty
+1684,"[34, 35]",empty
+1685,"[34, 36]",empty
+1686,"[34, 37]",empty
+1687,"[34, 38]",empty
+1688,"[34, 39]",empty
+1689,"[34, 40]",empty
+1690,"[34, 41]",empty
+1691,"[34, 42]",empty
+1692,"[34, 43]",empty
+1693,"[34, 44]",empty
+1694,"[34, 45]",empty
+1695,"[34, 46]",empty
+1696,"[34, 47]",empty
+1697,"[34, 48]",empty
+1698,"[34, 49]",empty
+1699,"[34, 50]",Adsorbent
+1700,"[35, 1]",Electrode
+1701,"[35, 2]",LiCO3
+1702,"[35, 3]",SEI cluster
+1703,"[35, 4]",SEI cluster
+1704,"[35, 5]",LiCO3
+1705,"[35, 6]",SEI cluster
+1706,"[35, 7]",SEI cluster
+1707,"[35, 8]",SEI cluster
+1708,"[35, 9]",SEI cluster
+1709,"[35, 10]",SEI cluster
+1710,"[35, 11]",SEI cluster
+1711,"[35, 12]",SEI cluster
+1712,"[35, 13]",SEI cluster
+1713,"[35, 14]",SEI cluster
+1714,"[35, 15]",SEI cluster
+1715,"[35, 16]",SEI cluster
+1716,"[35, 17]",SEI cluster
+1717,"[35, 18]",SEI cluster
+1718,"[35, 19]",SEI cluster
+1719,"[35, 20]",SEI cluster
+1720,"[35, 21]",SEI cluster
+1721,"[35, 22]",SEI cluster
+1722,"[35, 23]",SEI cluster
+1723,"[35, 24]",SEI cluster
+1724,"[35, 25]",SEI cluster
+1725,"[35, 26]",SEI cluster
+1726,"[35, 27]",empty
+1727,"[35, 28]",empty
+1728,"[35, 29]",empty
+1729,"[35, 30]",empty
+1730,"[35, 31]",empty
+1731,"[35, 32]",empty
+1732,"[35, 33]",empty
+1733,"[35, 34]",empty
+1734,"[35, 35]",empty
+1735,"[35, 36]",empty
+1736,"[35, 37]",empty
+1737,"[35, 38]",empty
+1738,"[35, 39]",empty
+1739,"[35, 40]",empty
+1740,"[35, 41]",empty
+1741,"[35, 42]",empty
+1742,"[35, 43]",empty
+1743,"[35, 44]",empty
+1744,"[35, 45]",empty
+1745,"[35, 46]",empty
+1746,"[35, 47]",empty
+1747,"[35, 48]",empty
+1748,"[35, 49]",empty
+1749,"[35, 50]",Adsorbent
+1750,"[36, 1]",Electrode
+1751,"[36, 2]",LiCO3
+1752,"[36, 3]",LiCO3
+1753,"[36, 4]",LiCO3
+1754,"[36, 5]",LiCO3
+1755,"[36, 6]",SEI cluster
+1756,"[36, 7]",SEI cluster
+1757,"[36, 8]",SEI cluster
+1758,"[36, 9]",SEI cluster
+1759,"[36, 10]",SEI cluster
+1760,"[36, 11]",SEI cluster
+1761,"[36, 12]",SEI cluster
+1762,"[36, 13]",SEI cluster
+1763,"[36, 14]",SEI cluster
+1764,"[36, 15]",SEI cluster
+1765,"[36, 16]",SEI cluster
+1766,"[36, 17]",SEI cluster
+1767,"[36, 18]",SEI cluster
+1768,"[36, 19]",SEI cluster
+1769,"[36, 20]",SEI cluster
+1770,"[36, 21]",SEI cluster
+1771,"[36, 22]",SEI cluster
+1772,"[36, 23]",SEI cluster
+1773,"[36, 24]",SEI cluster
+1774,"[36, 25]",SEI cluster
+1775,"[36, 26]",empty
+1776,"[36, 27]",empty
+1777,"[36, 28]",empty
+1778,"[36, 29]",empty
+1779,"[36, 30]",empty
+1780,"[36, 31]",empty
+1781,"[36, 32]",empty
+1782,"[36, 33]",empty
+1783,"[36, 34]",empty
+1784,"[36, 35]",empty
+1785,"[36, 36]",empty
+1786,"[36, 37]",empty
+1787,"[36, 38]",empty
+1788,"[36, 39]",empty
+1789,"[36, 40]",empty
+1790,"[36, 41]",empty
+1791,"[36, 42]",empty
+1792,"[36, 43]",empty
+1793,"[36, 44]",empty
+1794,"[36, 45]",empty
+1795,"[36, 46]",empty
+1796,"[36, 47]",empty
+1797,"[36, 48]",empty
+1798,"[36, 49]",empty
+1799,"[36, 50]",Adsorbent
+1800,"[37, 1]",Electrode
+1801,"[37, 2]",LiCO3
+1802,"[37, 3]",LiCO3
+1803,"[37, 4]",LiCO3
+1804,"[37, 5]",SEI cluster
+1805,"[37, 6]",SEI cluster
+1806,"[37, 7]",SEI cluster
+1807,"[37, 8]",SEI cluster
+1808,"[37, 9]",SEI cluster
+1809,"[37, 10]",SEI cluster
+1810,"[37, 11]",SEI cluster
+1811,"[37, 12]",SEI cluster
+1812,"[37, 13]",SEI cluster
+1813,"[37, 14]",SEI cluster
+1814,"[37, 15]",SEI cluster
+1815,"[37, 16]",SEI cluster
+1816,"[37, 17]",empty
+1817,"[37, 18]",SEI cluster
+1818,"[37, 19]",SEI cluster
+1819,"[37, 20]",SEI cluster
+1820,"[37, 21]",SEI cluster
+1821,"[37, 22]",SEI cluster
+1822,"[37, 23]",SEI cluster
+1823,"[37, 24]",SEI cluster
+1824,"[37, 25]",empty
+1825,"[37, 26]",empty
+1826,"[37, 27]",empty
+1827,"[37, 28]",empty
+1828,"[37, 29]",empty
+1829,"[37, 30]",empty
+1830,"[37, 31]",empty
+1831,"[37, 32]",empty
+1832,"[37, 33]",empty
+1833,"[37, 34]",empty
+1834,"[37, 35]",empty
+1835,"[37, 36]",empty
+1836,"[37, 37]",empty
+1837,"[37, 38]",empty
+1838,"[37, 39]",empty
+1839,"[37, 40]",empty
+1840,"[37, 41]",empty
+1841,"[37, 42]",empty
+1842,"[37, 43]",empty
+1843,"[37, 44]",empty
+1844,"[37, 45]",empty
+1845,"[37, 46]",empty
+1846,"[37, 47]",empty
+1847,"[37, 48]",empty
+1848,"[37, 49]",empty
+1849,"[37, 50]",Adsorbent
+1850,"[38, 1]",Electrode
+1851,"[38, 2]",LiCO3
+1852,"[38, 3]",LiCO3
+1853,"[38, 4]",SEI cluster
+1854,"[38, 5]",SEI cluster
+1855,"[38, 6]",SEI cluster
+1856,"[38, 7]",SEI cluster
+1857,"[38, 8]",SEI cluster
+1858,"[38, 9]",SEI cluster
+1859,"[38, 10]",SEI cluster
+1860,"[38, 11]",SEI cluster
+1861,"[38, 12]",SEI cluster
+1862,"[38, 13]",SEI cluster
+1863,"[38, 14]",SEI cluster
+1864,"[38, 15]",SEI cluster
+1865,"[38, 16]",SEI cluster
+1866,"[38, 17]",SEI cluster
+1867,"[38, 18]",SEI cluster
+1868,"[38, 19]",SEI cluster
+1869,"[38, 20]",SEI cluster
+1870,"[38, 21]",SEI cluster
+1871,"[38, 22]",SEI cluster
+1872,"[38, 23]",empty
+1873,"[38, 24]",SEI cluster
+1874,"[38, 25]",empty
+1875,"[38, 26]",empty
+1876,"[38, 27]",empty
+1877,"[38, 28]",empty
+1878,"[38, 29]",empty
+1879,"[38, 30]",empty
+1880,"[38, 31]",empty
+1881,"[38, 32]",empty
+1882,"[38, 33]",empty
+1883,"[38, 34]",empty
+1884,"[38, 35]",empty
+1885,"[38, 36]",empty
+1886,"[38, 37]",empty
+1887,"[38, 38]",empty
+1888,"[38, 39]",empty
+1889,"[38, 40]",empty
+1890,"[38, 41]",empty
+1891,"[38, 42]",empty
+1892,"[38, 43]",empty
+1893,"[38, 44]",empty
+1894,"[38, 45]",empty
+1895,"[38, 46]",empty
+1896,"[38, 47]",empty
+1897,"[38, 48]",empty
+1898,"[38, 49]",empty
+1899,"[38, 50]",Adsorbent
+1900,"[39, 1]",Electrode
+1901,"[39, 2]",LiCO3
+1902,"[39, 3]",LiCO3
+1903,"[39, 4]",SEI cluster
+1904,"[39, 5]",SEI cluster
+1905,"[39, 6]",SEI cluster
+1906,"[39, 7]",SEI cluster
+1907,"[39, 8]",SEI cluster
+1908,"[39, 9]",SEI cluster
+1909,"[39, 10]",SEI cluster
+1910,"[39, 11]",empty
+1911,"[39, 12]",empty
+1912,"[39, 13]",SEI cluster
+1913,"[39, 14]",SEI cluster
+1914,"[39, 15]",SEI cluster
+1915,"[39, 16]",SEI cluster
+1916,"[39, 17]",SEI cluster
+1917,"[39, 18]",SEI cluster
+1918,"[39, 19]",SEI cluster
+1919,"[39, 20]",empty
+1920,"[39, 21]",SEI cluster
+1921,"[39, 22]",SEI cluster
+1922,"[39, 23]",empty
+1923,"[39, 24]",SEI cluster
+1924,"[39, 25]",empty
+1925,"[39, 26]",empty
+1926,"[39, 27]",empty
+1927,"[39, 28]",empty
+1928,"[39, 29]",empty
+1929,"[39, 30]",empty
+1930,"[39, 31]",empty
+1931,"[39, 32]",empty
+1932,"[39, 33]",empty
+1933,"[39, 34]",empty
+1934,"[39, 35]",empty
+1935,"[39, 36]",empty
+1936,"[39, 37]",empty
+1937,"[39, 38]",empty
+1938,"[39, 39]",empty
+1939,"[39, 40]",empty
+1940,"[39, 41]",empty
+1941,"[39, 42]",empty
+1942,"[39, 43]",empty
+1943,"[39, 44]",empty
+1944,"[39, 45]",empty
+1945,"[39, 46]",empty
+1946,"[39, 47]",empty
+1947,"[39, 48]",empty
+1948,"[39, 49]",empty
+1949,"[39, 50]",Adsorbent
+1950,"[40, 1]",Electrode
+1951,"[40, 2]",LiCO3
+1952,"[40, 3]",Li2EDC
+1953,"[40, 4]",P
+1954,"[40, 5]",SEI cluster
+1955,"[40, 6]",SEI cluster
+1956,"[40, 7]",SEI cluster
+1957,"[40, 8]",SEI cluster
+1958,"[40, 9]",SEI cluster
+1959,"[40, 10]",empty
+1960,"[40, 11]",SEI cluster
+1961,"[40, 12]",empty
+1962,"[40, 13]",SEI cluster
+1963,"[40, 14]",SEI cluster
+1964,"[40, 15]",empty
+1965,"[40, 16]",SEI cluster
+1966,"[40, 17]",SEI cluster
+1967,"[40, 18]",SEI cluster
+1968,"[40, 19]",SEI cluster
+1969,"[40, 20]",SEI cluster
+1970,"[40, 21]",SEI cluster
+1971,"[40, 22]",SEI cluster
+1972,"[40, 23]",SEI cluster
+1973,"[40, 24]",empty
+1974,"[40, 25]",empty
+1975,"[40, 26]",empty
+1976,"[40, 27]",empty
+1977,"[40, 28]",empty
+1978,"[40, 29]",empty
+1979,"[40, 30]",empty
+1980,"[40, 31]",empty
+1981,"[40, 32]",empty
+1982,"[40, 33]",empty
+1983,"[40, 34]",empty
+1984,"[40, 35]",empty
+1985,"[40, 36]",empty
+1986,"[40, 37]",empty
+1987,"[40, 38]",empty
+1988,"[40, 39]",empty
+1989,"[40, 40]",empty
+1990,"[40, 41]",empty
+1991,"[40, 42]",empty
+1992,"[40, 43]",empty
+1993,"[40, 44]",empty
+1994,"[40, 45]",empty
+1995,"[40, 46]",empty
+1996,"[40, 47]",empty
+1997,"[40, 48]",empty
+1998,"[40, 49]",empty
+1999,"[40, 50]",Adsorbent
+2000,"[41, 1]",Electrode
+2001,"[41, 2]",LiCO3
+2002,"[41, 3]",P
+2003,"[41, 4]",SEI cluster
+2004,"[41, 5]",SEI cluster
+2005,"[41, 6]",SEI cluster
+2006,"[41, 7]",empty
+2007,"[41, 8]",SEI cluster
+2008,"[41, 9]",SEI cluster
+2009,"[41, 10]",SEI cluster
+2010,"[41, 11]",SEI cluster
+2011,"[41, 12]",SEI cluster
+2012,"[41, 13]",SEI cluster
+2013,"[41, 14]",empty
+2014,"[41, 15]",SEI cluster
+2015,"[41, 16]",SEI cluster
+2016,"[41, 17]",empty
+2017,"[41, 18]",empty
+2018,"[41, 19]",SEI cluster
+2019,"[41, 20]",SEI cluster
+2020,"[41, 21]",SEI cluster
+2021,"[41, 22]",SEI cluster
+2022,"[41, 23]",SEI cluster
+2023,"[41, 24]",empty
+2024,"[41, 25]",empty
+2025,"[41, 26]",empty
+2026,"[41, 27]",empty
+2027,"[41, 28]",empty
+2028,"[41, 29]",empty
+2029,"[41, 30]",empty
+2030,"[41, 31]",empty
+2031,"[41, 32]",empty
+2032,"[41, 33]",empty
+2033,"[41, 34]",empty
+2034,"[41, 35]",empty
+2035,"[41, 36]",empty
+2036,"[41, 37]",empty
+2037,"[41, 38]",empty
+2038,"[41, 39]",empty
+2039,"[41, 40]",empty
+2040,"[41, 41]",empty
+2041,"[41, 42]",empty
+2042,"[41, 43]",empty
+2043,"[41, 44]",empty
+2044,"[41, 45]",empty
+2045,"[41, 46]",empty
+2046,"[41, 47]",empty
+2047,"[41, 48]",empty
+2048,"[41, 49]",empty
+2049,"[41, 50]",Adsorbent
+2050,"[42, 1]",Electrode
+2051,"[42, 2]",LiCO3
+2052,"[42, 3]",SEI cluster
+2053,"[42, 4]",SEI cluster
+2054,"[42, 5]",SEI cluster
+2055,"[42, 6]",SEI cluster
+2056,"[42, 7]",SEI cluster
+2057,"[42, 8]",SEI cluster
+2058,"[42, 9]",SEI cluster
+2059,"[42, 10]",SEI cluster
+2060,"[42, 11]",SEI cluster
+2061,"[42, 12]",empty
+2062,"[42, 13]",SEI cluster
+2063,"[42, 14]",empty
+2064,"[42, 15]",empty
+2065,"[42, 16]",empty
+2066,"[42, 17]",empty
+2067,"[42, 18]",empty
+2068,"[42, 19]",empty
+2069,"[42, 20]",SEI cluster
+2070,"[42, 21]",empty
+2071,"[42, 22]",SEI cluster
+2072,"[42, 23]",empty
+2073,"[42, 24]",empty
+2074,"[42, 25]",SEI cluster
+2075,"[42, 26]",empty
+2076,"[42, 27]",empty
+2077,"[42, 28]",empty
+2078,"[42, 29]",empty
+2079,"[42, 30]",empty
+2080,"[42, 31]",empty
+2081,"[42, 32]",empty
+2082,"[42, 33]",empty
+2083,"[42, 34]",empty
+2084,"[42, 35]",empty
+2085,"[42, 36]",empty
+2086,"[42, 37]",empty
+2087,"[42, 38]",empty
+2088,"[42, 39]",empty
+2089,"[42, 40]",empty
+2090,"[42, 41]",empty
+2091,"[42, 42]",empty
+2092,"[42, 43]",empty
+2093,"[42, 44]",empty
+2094,"[42, 45]",empty
+2095,"[42, 46]",empty
+2096,"[42, 47]",empty
+2097,"[42, 48]",empty
+2098,"[42, 49]",empty
+2099,"[42, 50]",Adsorbent
+2100,"[43, 1]",Electrode
+2101,"[43, 2]",LiCO3
+2102,"[43, 3]",LiCO3
+2103,"[43, 4]",LiCO3
+2104,"[43, 5]",SEI cluster
+2105,"[43, 6]",SEI cluster
+2106,"[43, 7]",empty
+2107,"[43, 8]",SEI cluster
+2108,"[43, 9]",SEI cluster
+2109,"[43, 10]",SEI cluster
+2110,"[43, 11]",empty
+2111,"[43, 12]",P
+2112,"[43, 13]",empty
+2113,"[43, 14]",empty
+2114,"[43, 15]",empty
+2115,"[43, 16]",empty
+2116,"[43, 17]",empty
+2117,"[43, 18]",empty
+2118,"[43, 19]",empty
+2119,"[43, 20]",empty
+2120,"[43, 21]",empty
+2121,"[43, 22]",SEI cluster
+2122,"[43, 23]",SEI cluster
+2123,"[43, 24]",empty
+2124,"[43, 25]",SEI cluster
+2125,"[43, 26]",empty
+2126,"[43, 27]",SEI cluster
+2127,"[43, 28]",empty
+2128,"[43, 29]",empty
+2129,"[43, 30]",empty
+2130,"[43, 31]",empty
+2131,"[43, 32]",empty
+2132,"[43, 33]",empty
+2133,"[43, 34]",empty
+2134,"[43, 35]",empty
+2135,"[43, 36]",empty
+2136,"[43, 37]",empty
+2137,"[43, 38]",empty
+2138,"[43, 39]",empty
+2139,"[43, 40]",empty
+2140,"[43, 41]",empty
+2141,"[43, 42]",empty
+2142,"[43, 43]",empty
+2143,"[43, 44]",empty
+2144,"[43, 45]",empty
+2145,"[43, 46]",empty
+2146,"[43, 47]",empty
+2147,"[43, 48]",empty
+2148,"[43, 49]",empty
+2149,"[43, 50]",Adsorbent
+2150,"[44, 1]",Electrode
+2151,"[44, 2]",LiCO3
+2152,"[44, 3]",LiCO3
+2153,"[44, 4]",SEI cluster
+2154,"[44, 5]",SEI cluster
+2155,"[44, 6]",SEI cluster
+2156,"[44, 7]",SEI cluster
+2157,"[44, 8]",SEI cluster
+2158,"[44, 9]",SEI cluster
+2159,"[44, 10]",SEI cluster
+2160,"[44, 11]",SEI cluster
+2161,"[44, 12]",empty
+2162,"[44, 13]",empty
+2163,"[44, 14]",empty
+2164,"[44, 15]",empty
+2165,"[44, 16]",empty
+2166,"[44, 17]",empty
+2167,"[44, 18]",empty
+2168,"[44, 19]",empty
+2169,"[44, 20]",empty
+2170,"[44, 21]",empty
+2171,"[44, 22]",empty
+2172,"[44, 23]",SEI cluster
+2173,"[44, 24]",empty
+2174,"[44, 25]",SEI cluster
+2175,"[44, 26]",SEI cluster
+2176,"[44, 27]",SEI cluster
+2177,"[44, 28]",SEI cluster
+2178,"[44, 29]",empty
+2179,"[44, 30]",empty
+2180,"[44, 31]",empty
+2181,"[44, 32]",empty
+2182,"[44, 33]",empty
+2183,"[44, 34]",empty
+2184,"[44, 35]",empty
+2185,"[44, 36]",empty
+2186,"[44, 37]",empty
+2187,"[44, 38]",empty
+2188,"[44, 39]",empty
+2189,"[44, 40]",empty
+2190,"[44, 41]",empty
+2191,"[44, 42]",empty
+2192,"[44, 43]",empty
+2193,"[44, 44]",empty
+2194,"[44, 45]",empty
+2195,"[44, 46]",empty
+2196,"[44, 47]",empty
+2197,"[44, 48]",empty
+2198,"[44, 49]",empty
+2199,"[44, 50]",Adsorbent
+2200,"[45, 1]",Electrode
+2201,"[45, 2]",LiCO3
+2202,"[45, 3]",LiCO3
+2203,"[45, 4]",SEI cluster
+2204,"[45, 5]",SEI cluster
+2205,"[45, 6]",SEI cluster
+2206,"[45, 7]",SEI cluster
+2207,"[45, 8]",empty
+2208,"[45, 9]",empty
+2209,"[45, 10]",empty
+2210,"[45, 11]",empty
+2211,"[45, 12]",empty
+2212,"[45, 13]",empty
+2213,"[45, 14]",empty
+2214,"[45, 15]",empty
+2215,"[45, 16]",empty
+2216,"[45, 17]",empty
+2217,"[45, 18]",empty
+2218,"[45, 19]",empty
+2219,"[45, 20]",empty
+2220,"[45, 21]",empty
+2221,"[45, 22]",SEI cluster
+2222,"[45, 23]",SEI cluster
+2223,"[45, 24]",SEI cluster
+2224,"[45, 25]",SEI cluster
+2225,"[45, 26]",SEI cluster
+2226,"[45, 27]",SEI cluster
+2227,"[45, 28]",SEI cluster
+2228,"[45, 29]",empty
+2229,"[45, 30]",empty
+2230,"[45, 31]",empty
+2231,"[45, 32]",empty
+2232,"[45, 33]",empty
+2233,"[45, 34]",empty
+2234,"[45, 35]",empty
+2235,"[45, 36]",empty
+2236,"[45, 37]",empty
+2237,"[45, 38]",empty
+2238,"[45, 39]",empty
+2239,"[45, 40]",empty
+2240,"[45, 41]",empty
+2241,"[45, 42]",empty
+2242,"[45, 43]",empty
+2243,"[45, 44]",empty
+2244,"[45, 45]",empty
+2245,"[45, 46]",empty
+2246,"[45, 47]",empty
+2247,"[45, 48]",empty
+2248,"[45, 49]",empty
+2249,"[45, 50]",Adsorbent
+2250,"[46, 1]",Electrode
+2251,"[46, 2]",LiCO3
+2252,"[46, 3]",SEI cluster
+2253,"[46, 4]",SEI cluster
+2254,"[46, 5]",SEI cluster
+2255,"[46, 6]",SEI cluster
+2256,"[46, 7]",SEI cluster
+2257,"[46, 8]",SEI cluster
+2258,"[46, 9]",SEI cluster
+2259,"[46, 10]",empty
+2260,"[46, 11]",empty
+2261,"[46, 12]",empty
+2262,"[46, 13]",empty
+2263,"[46, 14]",empty
+2264,"[46, 15]",empty
+2265,"[46, 16]",empty
+2266,"[46, 17]",empty
+2267,"[46, 18]",empty
+2268,"[46, 19]",empty
+2269,"[46, 20]",SEI cluster
+2270,"[46, 21]",empty
+2271,"[46, 22]",empty
+2272,"[46, 23]",empty
+2273,"[46, 24]",SEI cluster
+2274,"[46, 25]",SEI cluster
+2275,"[46, 26]",SEI cluster
+2276,"[46, 27]",SEI cluster
+2277,"[46, 28]",SEI cluster
+2278,"[46, 29]",SEI cluster
+2279,"[46, 30]",empty
+2280,"[46, 31]",empty
+2281,"[46, 32]",empty
+2282,"[46, 33]",empty
+2283,"[46, 34]",empty
+2284,"[46, 35]",empty
+2285,"[46, 36]",empty
+2286,"[46, 37]",empty
+2287,"[46, 38]",empty
+2288,"[46, 39]",empty
+2289,"[46, 40]",empty
+2290,"[46, 41]",empty
+2291,"[46, 42]",empty
+2292,"[46, 43]",empty
+2293,"[46, 44]",empty
+2294,"[46, 45]",empty
+2295,"[46, 46]",empty
+2296,"[46, 47]",empty
+2297,"[46, 48]",empty
+2298,"[46, 49]",empty
+2299,"[46, 50]",Adsorbent
+2300,"[47, 1]",Electrode
+2301,"[47, 2]",LiCO3
+2302,"[47, 3]",LiCO3
+2303,"[47, 4]",SEI cluster
+2304,"[47, 5]",SEI cluster
+2305,"[47, 6]",SEI cluster
+2306,"[47, 7]",SEI cluster
+2307,"[47, 8]",SEI cluster
+2308,"[47, 9]",SEI cluster
+2309,"[47, 10]",empty
+2310,"[47, 11]",empty
+2311,"[47, 12]",empty
+2312,"[47, 13]",empty
+2313,"[47, 14]",empty
+2314,"[47, 15]",empty
+2315,"[47, 16]",empty
+2316,"[47, 17]",empty
+2317,"[47, 18]",empty
+2318,"[47, 19]",empty
+2319,"[47, 20]",SEI cluster
+2320,"[47, 21]",SEI cluster
+2321,"[47, 22]",SEI cluster
+2322,"[47, 23]",SEI cluster
+2323,"[47, 24]",SEI cluster
+2324,"[47, 25]",SEI cluster
+2325,"[47, 26]",SEI cluster
+2326,"[47, 27]",empty
+2327,"[47, 28]",SEI cluster
+2328,"[47, 29]",SEI cluster
+2329,"[47, 30]",empty
+2330,"[47, 31]",empty
+2331,"[47, 32]",empty
+2332,"[47, 33]",empty
+2333,"[47, 34]",empty
+2334,"[47, 35]",empty
+2335,"[47, 36]",empty
+2336,"[47, 37]",empty
+2337,"[47, 38]",empty
+2338,"[47, 39]",empty
+2339,"[47, 40]",empty
+2340,"[47, 41]",empty
+2341,"[47, 42]",empty
+2342,"[47, 43]",empty
+2343,"[47, 44]",empty
+2344,"[47, 45]",empty
+2345,"[47, 46]",empty
+2346,"[47, 47]",empty
+2347,"[47, 48]",empty
+2348,"[47, 49]",empty
+2349,"[47, 50]",Adsorbent
+2350,"[48, 1]",Electrode
+2351,"[48, 2]",LiCO3
+2352,"[48, 3]",SEI cluster
+2353,"[48, 4]",SEI cluster
+2354,"[48, 5]",SEI cluster
+2355,"[48, 6]",SEI cluster
+2356,"[48, 7]",SEI cluster
+2357,"[48, 8]",SEI cluster
+2358,"[48, 9]",empty
+2359,"[48, 10]",empty
+2360,"[48, 11]",empty
+2361,"[48, 12]",empty
+2362,"[48, 13]",empty
+2363,"[48, 14]",empty
+2364,"[48, 15]",empty
+2365,"[48, 16]",empty
+2366,"[48, 17]",empty
+2367,"[48, 18]",empty
+2368,"[48, 19]",empty
+2369,"[48, 20]",empty
+2370,"[48, 21]",SEI cluster
+2371,"[48, 22]",SEI cluster
+2372,"[48, 23]",empty
+2373,"[48, 24]",empty
+2374,"[48, 25]",SEI cluster
+2375,"[48, 26]",SEI cluster
+2376,"[48, 27]",empty
+2377,"[48, 28]",empty
+2378,"[48, 29]",SEI cluster
+2379,"[48, 30]",SEI cluster
+2380,"[48, 31]",empty
+2381,"[48, 32]",empty
+2382,"[48, 33]",empty
+2383,"[48, 34]",empty
+2384,"[48, 35]",empty
+2385,"[48, 36]",empty
+2386,"[48, 37]",empty
+2387,"[48, 38]",empty
+2388,"[48, 39]",empty
+2389,"[48, 40]",empty
+2390,"[48, 41]",empty
+2391,"[48, 42]",empty
+2392,"[48, 43]",empty
+2393,"[48, 44]",empty
+2394,"[48, 45]",empty
+2395,"[48, 46]",empty
+2396,"[48, 47]",empty
+2397,"[48, 48]",empty
+2398,"[48, 49]",empty
+2399,"[48, 50]",Adsorbent
+2400,"[49, 1]",Electrode
+2401,"[49, 2]",LiCO3
+2402,"[49, 3]",P
+2403,"[49, 4]",SEI cluster
+2404,"[49, 5]",SEI cluster
+2405,"[49, 6]",empty
+2406,"[49, 7]",empty
+2407,"[49, 8]",empty
+2408,"[49, 9]",empty
+2409,"[49, 10]",empty
+2410,"[49, 11]",empty
+2411,"[49, 12]",empty
+2412,"[49, 13]",empty
+2413,"[49, 14]",empty
+2414,"[49, 15]",empty
+2415,"[49, 16]",empty
+2416,"[49, 17]",empty
+2417,"[49, 18]",empty
+2418,"[49, 19]",empty
+2419,"[49, 20]",empty
+2420,"[49, 21]",SEI cluster
+2421,"[49, 22]",SEI cluster
+2422,"[49, 23]",SEI cluster
+2423,"[49, 24]",empty
+2424,"[49, 25]",empty
+2425,"[49, 26]",empty
+2426,"[49, 27]",empty
+2427,"[49, 28]",empty
+2428,"[49, 29]",SEI cluster
+2429,"[49, 30]",empty
+2430,"[49, 31]",empty
+2431,"[49, 32]",empty
+2432,"[49, 33]",empty
+2433,"[49, 34]",empty
+2434,"[49, 35]",empty
+2435,"[49, 36]",empty
+2436,"[49, 37]",empty
+2437,"[49, 38]",empty
+2438,"[49, 39]",empty
+2439,"[49, 40]",empty
+2440,"[49, 41]",empty
+2441,"[49, 42]",empty
+2442,"[49, 43]",empty
+2443,"[49, 44]",empty
+2444,"[49, 45]",empty
+2445,"[49, 46]",empty
+2446,"[49, 47]",empty
+2447,"[49, 48]",empty
+2448,"[49, 49]",empty
+2449,"[49, 50]",Adsorbent
+2450,"[50, 1]",Electrode
+2451,"[50, 2]",LiCO3
+2452,"[50, 3]",SEI cluster
+2453,"[50, 4]",SEI cluster
+2454,"[50, 5]",SEI cluster
+2455,"[50, 6]",SEI cluster
+2456,"[50, 7]",empty
+2457,"[50, 8]",empty
+2458,"[50, 9]",empty
+2459,"[50, 10]",empty
+2460,"[50, 11]",empty
+2461,"[50, 12]",empty
+2462,"[50, 13]",empty
+2463,"[50, 14]",empty
+2464,"[50, 15]",empty
+2465,"[50, 16]",empty
+2466,"[50, 17]",empty
+2467,"[50, 18]",empty
+2468,"[50, 19]",empty
+2469,"[50, 20]",empty
+2470,"[50, 21]",empty
+2471,"[50, 22]",empty
+2472,"[50, 23]",empty
+2473,"[50, 24]",empty
+2474,"[50, 25]",empty
+2475,"[50, 26]",empty
+2476,"[50, 27]",empty
+2477,"[50, 28]",empty
+2478,"[50, 29]",empty
+2479,"[50, 30]",empty
+2480,"[50, 31]",empty
+2481,"[50, 32]",empty
+2482,"[50, 33]",empty
+2483,"[50, 34]",empty
+2484,"[50, 35]",empty
+2485,"[50, 36]",empty
+2486,"[50, 37]",empty
+2487,"[50, 38]",empty
+2488,"[50, 39]",empty
+2489,"[50, 40]",empty
+2490,"[50, 41]",empty
+2491,"[50, 42]",empty
+2492,"[50, 43]",empty
+2493,"[50, 44]",empty
+2494,"[50, 45]",empty
+2495,"[50, 46]",empty
+2496,"[50, 47]",empty
+2497,"[50, 48]",empty
+2498,"[50, 49]",empty
+2499,"[50, 50]",Adsorbent

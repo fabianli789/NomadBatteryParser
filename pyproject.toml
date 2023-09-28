@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = 'nomadapbs'
+version = '1.0'
+description = 'NOMAD APBS Parser'
+readme = "README.md"
+authors = [{ name = "David Elsing" }]
+license = { file = "LICENSE" }
+dependencies = [
+    # "nomad-lab[infrastrucutre]",
+    'numpy'
+]
+
+#[project.urls]
+#homepage = "https://github.com/nomad-coe/atomistic-parsers"
+
+[project.optional-dependencies]
+tests = [
+    'mypy==0.750',
+    'pylint==2.3.1',
+    'pylint_plugin_utils==0.5',
+    'pycodestyle==2.8.0',
+    'pytest==3.10.0',
+    'pytest-timeout==1.4.2',
+    'pytest-cov==2.7.1',
+    'astroid==2.5.1'
+]
+
+[tool.setuptools]
+packages = ["nomadapbs", "nomadapbs.metainfo"]
+
+[tool.setuptools.package-data]
+nomadapbs = ['metadata.yaml']

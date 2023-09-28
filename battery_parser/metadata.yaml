@@ -1,0 +1,10 @@
+codeLabel: BATTERY_PARSER
+codeLabelStyle: All in capitals
+codeName: battery_parser
+codeUrl: https://www.poissonboltzmann.org/
+codeCategory: Atomistic code
+status: production
+parserDirName: battery_parser
+parserSpecific: ''
+preamble: ''
+tableOfFiles: ''
