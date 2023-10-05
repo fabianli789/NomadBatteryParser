@@ -104,7 +104,7 @@ def DetailedParser(filepath, archive):
             conc.name = first_line_parts[i+1]
             conc.concentration = conc_array[:,i] 
     
-    with open(str(filepath.parent) + r'/input.yml') as file:
+    with open(str(filepath.parent) + r'/input_battery.yml') as file:
             j = 0
             for i, line in enumerate(file):
                 parts  = line.split(": ")
