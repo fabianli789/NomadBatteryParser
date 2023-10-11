@@ -22,9 +22,7 @@ from nomad.datamodel import results, optimade
 from nomad.datamodel.metainfo.workflow import Workflow
 
 
-m_package = Package(
-    name='apbs_nomadmetainfo_json',
-    description='None')
+m_package = Package()
 
 class Dimensions(MSection):
     m_def = Section(validate=False)

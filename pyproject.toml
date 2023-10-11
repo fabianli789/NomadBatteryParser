@@ -3,11 +3,11 @@ requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = 'nomadapbs'
+name = 'battery_parser'
 version = '1.0'
-description = 'NOMAD APBS Parser'
+description = 'NOMAD Battery Parser'
 readme = "README.md"
-authors = [{ name = "David Elsing" }]
+authors = [{ name = "Fabian Li" }]
 license = { file = "LICENSE" }
 dependencies = [
     # "nomad-lab[infrastrucutre]",
@@ -30,7 +30,7 @@ tests = [
 ]
 
 [tool.setuptools]
-packages = ["nomadapbs", "nomadapbs.metainfo"]
+packages = ["battery_parser", "battery_parser.metainfo"]
 
 [tool.setuptools.package-data]
-nomadapbs = ['metadata.yaml']
+battery_parser = ['metadata.yaml']

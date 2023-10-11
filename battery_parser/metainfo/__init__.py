@@ -19,9 +19,9 @@
 import sys
 from nomad.metainfo import Environment
 from nomad.metainfo.legacy import LegacyMetainfoEnvironment
-import battery_parser.metainfo.battery_parser
+import battery_parser.metainfo.battery
 import nomad.datamodel.metainfo.common
 
 m_env = LegacyMetainfoEnvironment()
-m_env.m_add_sub_section(Environment.packages, sys.modules['battery_parser.metainfo.battery_parser'].m_package)  # type: ignore
+m_env.m_add_sub_section(Environment.packages, sys.modules['battery_parser.metainfo.battery'].m_package)  # type: ignore
 m_env.m_add_sub_section(Environment.packages, sys.modules['nomad.datamodel.metainfo.common'].m_package)  # type: ignore

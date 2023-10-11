@@ -32,7 +32,7 @@ from nomad.datamodel.results import Results, Properties, Structure
 from nomad.parsing.file_parser import UnstructuredTextFileParser, Quantity
 from nomad.datamodel.optimade import Species
 from . import metainfo  # pylint: disable=unused-import
-from .metainfo.battery_parser import Dimensions, ChemReactions, Concentrations, Time
+from .metainfo.battery import Dimensions, ChemReactions, Concentrations, Time
 
 
 def DetailedParser(filepath, archive):
