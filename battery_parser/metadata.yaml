@@ -1,6 +1,6 @@
-codeLabel: BATTERY_PARSER
+codeLabel: BATTERY
 codeLabelStyle: All in capitals
-codeName: battery_parser
+codeName: battery
 codeUrl: https://www.poissonboltzmann.org/
 codeCategory: Atomistic code
 status: production

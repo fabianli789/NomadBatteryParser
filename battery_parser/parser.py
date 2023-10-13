@@ -187,7 +187,7 @@ def Escaped(parent, chem_reactions):
 
                         
 
-class Parser():
+class BatteryParser():
 
     def parse(self, filepath, archive, logger):
         input_run = archive.m_create(Run)

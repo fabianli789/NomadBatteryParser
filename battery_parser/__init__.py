@@ -16,4 +16,4 @@
 # limitations under the License.
 #
 
-from .parser import Parser
+from .parser import BatteryParser

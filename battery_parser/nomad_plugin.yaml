@@ -1,8 +1,8 @@
 plugin_type: parser
-name: parsers/battery_parser
+name: parsers/battery
 description: |
   This is a simple hello world parser. This is meant as a template. Fork the github
   project to create your own parser.
 mainfile_name_re: ^.*battery\.yml$
-parser_class_name: battery_parser.Parser
-code_name: meysam_battery_parser
+parser_class_name: battery_parser.BatteryParser
+code_name: BATTERY
