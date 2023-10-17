@@ -85,7 +85,7 @@ def DetailedParser(filepath, archive):
         conc_array = np.zeros((rows+1, len(first_line_parts)-2))
         time_array = []
 
-    with open(str(filepath.parent) + r'/concentration.csv') as conc_file:    
+        conc_file.seek(0) 
         for j, line in enumerate(conc_file):
     
             if re.search(r'time', line):
@@ -135,7 +135,7 @@ def DetailedParser(filepath, archive):
         coordinates = np.zeros((j, 3))
         coord_x = []
         coord_y = []
-    with open(str(filepath.parent) + r'/last_step.csv') as last_step_file:    
+        last_step_file.seek(0)    
         for i, line in enumerate(last_step_file):
             parts = line.strip("\n").split(",")
             if re.search(r'species', parts[3]):
