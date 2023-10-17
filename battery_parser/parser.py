@@ -190,9 +190,10 @@ def Escaped(parent, chem_reactions):
 class BatteryParser():
 
     def parse(self, filepath, archive, logger):
-        input_run = archive.m_create(Run)
-        input_run.program_name = 'Meysam Battery Parser'
-        input_run.program = Program(name='Meysam Battery Parser')
+        
+        sec_program = archive.m_setdefault('run.program')
+        sec_program.name = 'Meysam Battery Parser'
+#        input_run.program = Program(name='Meysam Battery Parser')
 
         mainfile = Path(filepath)
         DetailedParser(mainfile, archive)
