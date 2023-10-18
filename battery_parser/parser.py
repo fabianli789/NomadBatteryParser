@@ -32,7 +32,7 @@ from nomad.datamodel.results import Results, Properties, Structure
 from nomad.parsing.file_parser import UnstructuredTextFileParser, Quantity
 from nomad.datamodel.optimade import Species
 from . import metainfo  # pylint: disable=unused-import
-from .metainfo.battery import Dimensions, ChemReactions, Concentrations, Time
+from .metainfo.battery import Dimensions_Battery, ChemReactions_Battery, Concentrations_Battery
 
 
 def DetailedParser(filepath, archive):
@@ -54,7 +54,7 @@ def DetailedParser(filepath, archive):
                 calc.step = int(float(parts[1]))
 
     with open(str(filepath.parent) + r'/SEI_properties.csv') as prop_file:
-        dim = calc.m_create(Dimensions)
+        dim = calc.m_create(Dimensions_Battery)
 
         for i, line in enumerate(prop_file):
             line = line.strip("\n")
@@ -100,7 +100,7 @@ def DetailedParser(filepath, archive):
         calc.concentration_time = time_array
         
         for i in range(len(first_line_parts)-2):
-            conc = calc.m_create(Concentrations)   
+            conc = calc.m_create(Concentrations_Battery)   
             conc.name = first_line_parts[i+1]
             conc.concentration = conc_array[:,i] 
     
@@ -116,7 +116,7 @@ def DetailedParser(filepath, archive):
                 elif parts[0] =="ydim":
                     dim.y = float(parts[1])
                 elif re.search(r'\-', parts[0]):
-                    chem_reactions = calc.m_create(ChemReactions)
+                    chem_reactions = calc.m_create(ChemReactions_Battery)
                     parts[0] = parts[0].lstrip('- ').rstrip(' ')
                     chem_reactions.name = parts[0]
                     if re.search(r'escape', parts[0]):
