@@ -15,7 +15,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-
+import numpy as np
 from nomad.metainfo import MSection, Section, SubSection, Quantity, Package
 from nomad.datamodel.metainfo import simulation
 from nomad.datamodel import results, optimade
@@ -33,10 +33,11 @@ class Dimensions_Battery(MSection):
 class Concentrations_Battery(MSection):
     m_def = Section(validate=False)
     name = Quantity(type=str, description='name of molecule')
-    concentration = Quantity(type=float, shape = ['*'], description='concentration of molecule at specific time, same length as "time"-array at run.calculation.concentration_time')
+    concentration = Quantity(type=np.float64, shape = ['*'], description='concentration of molecule at specific time, same length as "time"-array at run.calculation.concentration_time')
 
 
 class ChemReactions_Battery(MSection):
+    m_def  = Section(validate=False)
     name = Quantity(type=str, description = 'name of chem. reaction')
     barrier = Quantity(type=float, shape=[], description='energetic barrier in eV')
     escaped = Quantity(type=int, shape=[], description='number of escaped species')
@@ -52,7 +53,7 @@ class Calculation(simulation.calculation.Calculation):
     concentrations = SubSection(sub_section=Concentrations_Battery.m_def, repeats=True)
     volume_fraction = Quantity(type=float, description='volume if SEI got pressed together')
     porosity = Quantity(type=float, description='share of porous volume wrt to total SEI volume')
-    concentration_time = Quantity(type=float, shape=['*'], description='time evolution for the concentration of molecules, same length as "concentration"-array under run.calculation.concentrations')
+    concentration_time = Quantity(type=np.float64, shape=['*'], description='time evolution for the concentration of molecules, same length as "concentration"-array under run.calculation.concentrations')
 class Run(simulation.run.Run):
     m_def = Section(validate=False, extends_base_section=True)
 
