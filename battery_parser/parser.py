@@ -27,7 +27,7 @@ from nomad.units import ureg as units
 from nomad.datamodel.metainfo.simulation.run import Run, Program
 from nomad.datamodel.metainfo.simulation.system import System
 from nomad.datamodel.metainfo.simulation.calculation import Calculation, Energy, EnergyEntry
-from nomad.datamodel.metainfo.workflow import Workflow
+#from nomad.datamodel.metainfo.workflow import Workflow
 from nomad.datamodel.results import Results, Properties, Structure
 from nomad.parsing.file_parser import UnstructuredTextFileParser, Quantity
 from nomad.datamodel.optimade import Species
