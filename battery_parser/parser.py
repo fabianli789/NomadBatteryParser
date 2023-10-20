@@ -36,7 +36,7 @@ from .metainfo.battery import Dimensions_Battery, ChemReactions_Battery, Concent
 
 
 def DetailedParser(filepath, archive):
-    with open(str(filepath.parent) + r'/status.csv') as status_file:
+    with open(str(filepath.parent) + r'/status_battery.csv') as status_file:
         time_run = archive.m_setdefault("run.time_run")
         time_run.cpu1_start = 0
         calc = archive.m_setdefault("run.calculation")
@@ -53,7 +53,7 @@ def DetailedParser(filepath, archive):
             if re.search(r'steps', parts[0]):
                 calc.step = int(float(parts[1]))
 
-    with open(str(filepath.parent) + r'/SEI_properties.csv') as prop_file:
+    with open(str(filepath.parent) + r'/SEI_properties_battery.csv') as prop_file:
         dim = calc.m_create(Dimensions_Battery)
 
         for i, line in enumerate(prop_file):
@@ -68,7 +68,7 @@ def DetailedParser(filepath, archive):
             if re.search(r'Poro', parts[0]):
                 calc.porosity = float(parts[1])
 
-    with open(str(filepath.parent) + r"/occurrence_res.csv") as occurrence_file:
+    with open(str(filepath.parent) + r"/occurrence_res_battery.csv") as occurrence_file:
         occurence_array = []
         residence_time_array = []
         for i, line in enumerate(occurrence_file):
@@ -78,7 +78,7 @@ def DetailedParser(filepath, archive):
             occurence_array.append(int(part2))
             residence_time_array.append(float(part3))
     
-    with open(str(filepath.parent) + r'/concentration.csv') as conc_file:
+    with open(str(filepath.parent) + r'/concentration_battery.csv') as conc_file:
         first_line_parts = conc_file.readline().strip("\n").split(",")
         for x, bla in enumerate(conc_file):
             rows = x
@@ -128,7 +128,7 @@ def DetailedParser(filepath, archive):
                     
                     chem_reactions.occurences = occurence_array[i-5]
                     chem_reactions.residence_time = residence_time_array[i-5]
-    with open(str(filepath.parent) + r'/last_step.csv') as last_step_file:
+    with open(str(filepath.parent) + r'/last_step_battery.csv') as last_step_file:
         species_array = []
         for j, x in enumerate(last_step_file):
             pass
@@ -174,7 +174,7 @@ def DetailedParser(filepath, archive):
             if re.search(r'O', species_unique[x]):
                 sec_species.chemical_symbols.append("O")
 def Escaped(parent, chem_reactions):
-    escaped_file =str(parent)+r"/escaped.csv"
+    escaped_file =str(parent)+r"/escaped_battery.csv"
     with open(escaped_file) as file:
         escaped_array = []
         for i, line in enumerate(file):
