@@ -147,32 +147,9 @@ def DetailedBatteryParser(filepath, archive):
             species_array.append(parts[3])
         coordinates[:, 0] = coord_x
         coordinates[:, 1] = coord_y
-        structure_original = archive.m_setdefault("results.properties.structures.structure_original")
-        structure_original.cartesian_site_positions = coordinates
-        structure_original.species_at_sites = species_array
-        species_unique = sorted(list(set(species_array)))
+        calc.molecule_positions = coordinates
         
-        for x in range(len(species_unique)):    
-            sec_species = structure_original.m_create(Species)
-            sec_species.name = species_unique[x]
-            sec_species.chemical_symbols = []
-            if re.search(r'C', species_unique[x]) and not re.search(r'EDC', species_unique[x]):
-                sec_species.chemical_symbols.append("C")
-            if re.search(r'SEI cluster', species_unique[x]):
-                sec_species.name = species_unique[x] + " (cluster = more than 2 Li2EDC molecules)"
-                sec_species.chemical_symbols.append("H")
-                sec_species.chemical_symbols.append("C")
-                sec_species.chemical_symbols.append("O")
-                sec_species.chemical_symbols.append("Li")           
-            if re.search(r'EDC', species_unique[x]):
-                sec_species.name = species_unique[x] + " (EDC = ethylene dicarbonate)"
-                sec_species.chemical_symbols.append("H")
-                sec_species.chemical_symbols.append("C")
-                sec_species.chemical_symbols.append("O")
-            if re.search(r'Li', species_unique[x]):
-                sec_species.chemical_symbols.append("Li")
-            if re.search(r'O', species_unique[x]):
-                sec_species.chemical_symbols.append("O")
+        calc.molecule_species = species_array
 def Escaped(parent, chem_reactions):
     escaped_file =str(parent)+r"/escaped_battery.csv"
     with open(escaped_file) as file:
