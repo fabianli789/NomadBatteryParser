@@ -35,7 +35,7 @@ from . import metainfo  # pylint: disable=unused-import
 from .metainfo.battery import Dimensions_Battery, ChemReactions_Battery, Concentrations_Battery
 
 
-def DetailedParser(filepath, archive):
+def DetailedBatteryParser(filepath, archive):
     with open(str(filepath.parent) + r'/status_battery.csv') as status_file:
         time_run = archive.m_setdefault("run.time_run")
         time_run.cpu1_start = 0
@@ -196,4 +196,4 @@ class BatteryParser():
 #        input_run.program = Program(name='Meysam Battery Parser')
 
         mainfile = Path(filepath)
-        DetailedParser(mainfile, archive)
+        DetailedBatteryParser(mainfile, archive)
