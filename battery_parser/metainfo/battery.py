@@ -54,7 +54,7 @@ class BatteryCalculation(simulation.calculation.Calculation):
     volume_fraction = Quantity(type=float, description='volume if SEI got pressed together')
     porosity = Quantity(type=float, description='share of porous volume wrt to total SEI volume')
     concentration_time = Quantity(type=np.float64, shape=['*'], description='time evolution for the concentration of molecules, same length as "concentration"-array under run.calculation.concentrations')
-    molecule_positions = Quantity(type=np.float64, shape=['*', 3], description='2D cartesian coordinates of molecules')
+    molecule_positions = Quantity(type=np.float64, shape=['*', 3], description='2D cartesian coordinates of molecules in nm.')
     molecule_species = Quantity(type=str, shape=['*'], description='Molecule species, same array length as molecule_positions.')
 #class BatteryRun(simulation.run.Run):
 #    m_def = Section(validate=False, extends_base_section=True)
