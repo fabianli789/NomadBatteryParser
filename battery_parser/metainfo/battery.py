@@ -56,7 +56,7 @@ class BatteryCalculation(simulation.calculation.Calculation):
     concentration_time = Quantity(type=np.float64, shape=['*'], description='time evolution for the concentration of molecules, same length as "concentration"-array under run.calculation.concentrations')
     molecule_positions = Quantity(type=np.float64, shape=['*', 3], description='2D cartesian coordinates of molecules')
     molecule_species = Quantity(type=str, shape=['*'], description='Molecule species, same array length as molecule_positions.')
-class BatteryRun(simulation.run.Run):
-    m_def = Section(validate=False, extends_base_section=True)
+#class BatteryRun(simulation.run.Run):
+#    m_def = Section(validate=False, extends_base_section=True)
 
 m_package.__init_metainfo__()
