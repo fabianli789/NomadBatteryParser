@@ -45,7 +45,7 @@ class ChemReactions_Battery(MSection):
     residence_time = Quantity(type=float, shape=[], description =  'time of each chem. reaction')
     
 
-class Calculation(simulation.calculation.Calculation):
+class BatteryCalculation(simulation.calculation.Calculation):
     m_def = Section(validate=False, extends_base_section=True)    
     dimensions = SubSection(sub_section=Dimensions_Battery.m_def, repeats=False)
     
@@ -56,7 +56,7 @@ class Calculation(simulation.calculation.Calculation):
     concentration_time = Quantity(type=np.float64, shape=['*'], description='time evolution for the concentration of molecules, same length as "concentration"-array under run.calculation.concentrations')
     molecule_positions = Quantity(type=np.float64, shape=['*', 3], description='2D cartesian coordinates of molecules')
     molecule_species = Quantity(type=str, shape=['*'], description='Molecule species, same array length as molecule_positions.')
-class Run(simulation.run.Run):
+class BatteryRun(simulation.run.Run):
     m_def = Section(validate=False, extends_base_section=True)
 
 m_package.__init_metainfo__()
