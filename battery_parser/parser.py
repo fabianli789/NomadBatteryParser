@@ -169,7 +169,7 @@ class BatteryParser():
     def parse(self, filepath, archive, logger):
         
         sec_program = archive.m_setdefault('run.program')
-        sec_program.name = 'Meysam Battery Parser'
+        sec_program.name = 'Meysam cron job testing'
 #        input_run.program = Program(name='Meysam Battery Parser')
         sec_method = archive.m_setdefault('results.method')
         sec_method.method_name = 'unavailable'
