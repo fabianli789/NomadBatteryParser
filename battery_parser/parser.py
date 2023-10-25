@@ -171,8 +171,6 @@ class BatteryParser():
         sec_program = archive.m_setdefault('run.program')
         sec_program.name = 'Meysam Battery Parser'
 #        input_run.program = Program(name='Meysam Battery Parser')
-        sec_method = archive.m_setdefault('results.method')
-        sec_method.method_name = 'unavailable'
 
         mainfile = Path(filepath)
         DetailedBatteryParser(mainfile, archive)
